@@ -1,0 +1,66 @@
+"""Browser smoke test against a running local app; no writes to classifications."""
+from pathlib import Path
+import json
+from playwright.sync_api import sync_playwright,expect
+
+out=Path('data/qa');out.mkdir(parents=True,exist_ok=True)
+with sync_playwright() as p:
+    browser=p.chromium.launch()
+    page=browser.new_page(viewport={'width':1440,'height':1080},device_scale_factor=1)
+    errors=[];failed=[]
+    page.on('pageerror',lambda e:errors.append(str(e)))
+    page.on('response',lambda r:failed.append(f'{r.status} {r.url}') if '/api/' in r.url and r.status>=400 else None)
+    page.goto('http://127.0.0.1:8000',wait_until='networkidle')
+    expect(page.get_by_role('heading',name='Panel general',exact=True)).to_be_visible()
+    expect(page.get_by_role('heading',name='Operaciones registradas',exact=False)).to_be_visible()
+    page.screenshot(path=str(out/'radar-desktop.png'))
+    page.get_by_role('button',name='PP inyección',exact=True).click()
+    expect(page.locator('tbody tr').first).to_contain_text('PP')
+    page.get_by_role('button',name='Limpiar filtros',exact=False).click()
+    page.get_by_role('button',name='Explorar importaciones',exact=True).click()
+    page.get_by_role('textbox',name='Buscar material o grado').fill('HB5502B')
+    page.get_by_role('button',name='Buscar',exact=True).click()
+    expect(page.locator('tbody tr').first).to_contain_text('HB5502B')
+    page.locator('tbody tr').first.get_by_role('button').click()
+    expect(page.get_by_role('dialog',name='Detalle de serie')).to_be_visible()
+    expect(page.get_by_text('FOB por kg',exact=True)).to_be_visible()
+    page.get_by_role('button',name='Cerrar detalle').click()
+    with page.expect_download() as download:
+        page.get_by_role('button',name='Exportar CSV').click()
+    download.value.save_as(str(out/'filtered.csv'))
+    assert 'HB5502B' in (out/'filtered.csv').read_text(encoding='utf-8-sig')
+    page.get_by_role('button',name='Limpiar filtros',exact=False).click()
+    page.get_by_role('button',name='Empresas',exact=True).click()
+    page.locator('.company-link').first.click()
+    expect(page.get_by_text('Historial de compras',exact=True)).to_be_visible()
+    page.get_by_role('button',name='Materiales',exact=True).click()
+    expect(page.get_by_text('Evolución del precio · HDPE')).to_be_visible()
+    page.get_by_role('button',name='Comparador',exact=True).click()
+    page.locator('.compare-picker input').nth(0).check()
+    page.locator('.compare-picker input').nth(1).check()
+    expect(page.locator('.compare-card')).to_have_count(2)
+    page.get_by_role('button',name='Alertas',exact=True).click()
+    expect(page.get_by_role('heading',name='Alertas',exact=True)).to_be_visible()
+    page.get_by_role('button',name='Fuentes y calidad',exact=True).click()
+    expect(page.get_by_role('heading',name='Historial de ejecuciones')).to_be_visible()
+    page.get_by_role('button',name='Actualizar datos',exact=True).click()
+    expect(page.get_by_role('dialog',name='Actualizar datos')).to_be_visible()
+    page.get_by_role('button',name='Cerrar actualización').click()
+    page.get_by_role('button',name='Panel general',exact=True).click()
+    page.get_by_role('textbox',name='Buscar material o grado').fill('NO-EXISTE-GRADO-TEST')
+    page.get_by_role('button',name='Buscar',exact=True).click()
+    expect(page.locator('.operations').get_by_role('heading',name='No hay resultados',exact=True)).to_be_visible()
+    page.get_by_role('button',name='Limpiar filtros',exact=False).click()
+    page.wait_for_load_state('networkidle')
+    expect(page.locator('.operations tbody tr').first).to_be_visible()
+    if page.get_by_role('button',name='Cerrar aviso').is_visible(): page.get_by_role('button',name='Cerrar aviso').click()
+    page.set_viewport_size({'width':390,'height':844})
+    expect(page.get_by_role('heading',name='Panel general',exact=True)).to_be_visible()
+    assert page.evaluate('document.documentElement.scrollWidth <= window.innerWidth'), 'Horizontal page overflow'
+    page.screenshot(path=str(out/'radar-mobile.png'),full_page=True)
+    assert not errors,errors
+    assert not failed,failed
+    (out/'ui-results.json').write_text(json.dumps({'status':'passed','console_errors':errors,'api_errors':failed,'checks':['dashboard','related search','commercial grade','details','csv','company profile','material profile','comparison','alerts','coverage','ingestion modal','empty search','responsive 390px']},indent=2),encoding='utf-8')
+    browser.close()
+    print('UI smoke tests passed; desktop and mobile screenshots saved to data/qa')
+

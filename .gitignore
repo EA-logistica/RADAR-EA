@@ -1,0 +1,13 @@
+.venv/
+node_modules/
+web/node_modules/
+web/dist/
+__pycache__/
+.pytest_cache/
+.env
+data/
+.runtime/
+*.log
+*.egg-info/
+radar-importaciones.zip
+web/tsconfig.tsbuildinfo
