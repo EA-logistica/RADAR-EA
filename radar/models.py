@@ -71,6 +71,17 @@ class Operation(Base):
     artifact_id: Mapped[str] = mapped_column(ForeignKey("artifacts.id"))
     created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=now)
     updated_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=now)
+    # Capa derivada (radar.grades): marca, grado, aplicación y MI. Se recalcula con `radar.cli grades`.
+    brand: Mapped[str | None] = mapped_column(Text)
+    grade: Mapped[str | None] = mapped_column(Text)
+    grade_key: Mapped[str | None] = mapped_column(String(40), index=True)
+    application: Mapped[str | None] = mapped_column(String(40), index=True)
+    applications: Mapped[str | None] = mapped_column(Text)
+    melt_index: Mapped[Decimal | None] = mapped_column(Numeric(12,4))
+    density: Mapped[Decimal | None] = mapped_column(Numeric(8,4))
+    product_name: Mapped[str | None] = mapped_column(Text)
+    grade_text: Mapped[str | None] = mapped_column(Text)
+    grade_info: Mapped[dict | None] = mapped_column(JSON)
     __table_args__ = (UniqueConstraint("country","regime","customs","year","declaration","series", name="uq_operation"),)
 
 class Revision(Base):

@@ -1,0 +1,4294 @@
+[
+ {
+  "grade": "CZ-328A",
+  "aliases": [
+   "CZ-328A B1.1"
+  ],
+  "brand": "Jade (Jiangsu Xingye / Indorama)",
+  "polymer": "PET",
+  "applications": [
+   "Soplado",
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": 0.85,
+  "name": "PET SOPLADO JADE CZ-328A",
+  "summary": "PET grado botella para bebidas carbonatadas (CSD) y garrafones; IV 0.85 dL/g (alta viscosidad, adecuada para botellas de gran volumen y presión).",
+  "source_url": "https://www.chemategroup.com/jade-pet/",
+  "confidence": "media"
+ },
+ {
+  "grade": "CZ-333",
+  "aliases": [],
+  "brand": "Jade (Jiangsu Xingye / Indorama)",
+  "polymer": "PET",
+  "applications": [
+   "Soplado",
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": 0.85,
+  "name": "PET SOPLADO JADE CZ-333",
+  "summary": "PET grado botella para llenado en caliente (tés, jugos); IV 0.85 dL/g, buena estabilidad dimensional térmica.",
+  "source_url": "https://www.chemategroup.com/jade-pet/",
+  "confidence": "media"
+ },
+ {
+  "grade": "CZ-302",
+  "aliases": [
+   "CZ-302 B1.1"
+  ],
+  "brand": "Jade (Jiangsu Xingye / Indorama)",
+  "polymer": "PET",
+  "applications": [
+   "Soplado",
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": 0.8,
+  "name": "PET SOPLADO JADE CZ-302",
+  "summary": "PET grado botella para agua mineral/purificada; IV 0.80 dL/g, uso estándar para envases de agua.",
+  "source_url": "https://www.chemategroup.com/jade-pet/",
+  "confidence": "media"
+ },
+ {
+  "grade": "CB-612",
+  "aliases": [],
+  "brand": "Eastlon (Far Eastern New Century)",
+  "polymer": "PET",
+  "applications": [
+   "Soplado",
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PET SOPLADO EASTLON CB-612",
+  "summary": "PET grado botella Eastlon (FENC) para preformas y botellas; IV no verificada en datasheet (otros grados Eastlon CB-602/608 están en 0.80-0.84 dL/g).",
+  "source_url": "https://fkur.com/en/bioplastics/eastlon/eastlon-pet-cb-602ab/",
+  "confidence": "baja"
+ },
+ {
+  "grade": "CR8828F",
+  "aliases": [],
+  "brand": "Eastlon (Far Eastern New Century)",
+  "polymer": "PET",
+  "applications": [
+   "Soplado",
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PET SOPLADO EASTLON CR8828F",
+  "summary": "PET grado botella Eastlon (FENC) para preformas y botellas; IV no verificada en datasheet (otros grados Eastlon CB-602/608 están en 0.80-0.84 dL/g).",
+  "source_url": "https://fkur.com/en/bioplastics/eastlon/eastlon-pet-cb-602ab/",
+  "confidence": "baja"
+ },
+ {
+  "grade": "GC811",
+  "aliases": [],
+  "brand": "Guxiandao",
+  "polymer": "PET",
+  "applications": [
+   "Soplado",
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PET SOPLADO GUXIANDAO GC811",
+  "summary": "PET chip grado botella; no se encontró datasheet, IV no verificada.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "L5E89",
+  "aliases": [
+   "PP L5E89"
+  ],
+  "brand": "Shenhua (China Energy)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Rafia / monofilamento",
+   "Extrusión"
+  ],
+  "mi": 3.5,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO RAFIA SHENHUA L5E89",
+  "summary": "PP homopolímero para rafia, cinta y monofilamento (sacos tejidos). MFR 3.5 g/10 min (230 °C/2.16 kg): fluidez baja-media para estirado de cintas.",
+  "source_url": "http://www.plaswinchem.com/pdf/PP%20L5E89.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "L5E89H",
+  "aliases": [],
+  "brand": "Shenhua (China Energy)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Rafia / monofilamento",
+   "Extrusión"
+  ],
+  "mi": null,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO RAFIA SHENHUA L5E89H",
+  "summary": "Variante de L5E89 para rafia/extrusión; MFR exacto no verificado (L5E89 base: 3.5).",
+  "source_url": "https://www.chemategroup.com/pp-l5e89/",
+  "confidence": "baja"
+ },
+ {
+  "grade": "S1005",
+  "aliases": [],
+  "brand": "Shenhua (China Energy)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Rafia / monofilamento",
+   "Inyección"
+  ],
+  "mi": 4.5,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO RAFIA SHENHUA S1005",
+  "summary": "PP homopolímero grado hilo/rafia (listado con MFR 4-5 g/10 min, 230 °C/2.16 kg); fluidez media-baja.",
+  "source_url": "https://hnmrxs.en.made-in-china.com/product/fpdYJkoxaIhv/China-Shenhua-PP-Yarn-Raffia-Grade-S1003-Mfr-3-4.html",
+  "confidence": "baja"
+ },
+ {
+  "grade": "PHO-2",
+  "aliases": [],
+  "brand": "Certene (Muehlstein)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO PELÍCULA CERTENE PHO-2",
+  "summary": "PP homopolímero certificado para película biorientada (BOPP) de alta claridad en extrusión cast de alta velocidad; MFR no leído.",
+  "source_url": "https://plastics.ulprospector.com/es/datasheet/e72686/certene-pho-2",
+  "confidence": "media"
+ },
+ {
+  "grade": "PHT-4",
+  "aliases": [],
+  "brand": "Certene (Muehlstein)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Rafia / monofilamento",
+   "Extrusión",
+   "Termoformado / lámina"
+  ],
+  "mi": null,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO RAFIA CERTENE PHT-4",
+  "summary": "PP homopolímero para extrusión de película cast con enfriamiento en agua para cintas y rafia (sacos, respaldo de alfombra, geotextiles); MFR no leído.",
+  "source_url": "https://plastics.ulprospector.com/datasheet/e302219/certene-pht-4",
+  "confidence": "media"
+ },
+ {
+  "grade": "5231P",
+  "aliases": [
+   "5231P 149"
+  ],
+  "brand": "SABIC",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 3,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO PELÍCULA SABIC 5231P",
+  "summary": "PP homopolímero para película BOPP con buenas propiedades ópticas y barrera, apto metalizado. MFR 3 g/10 min (230 °C/2.16 kg): fluidez baja para película.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/307082/sabic-pp-5231p",
+  "confidence": "media"
+ },
+ {
+  "grade": "HP520J",
+  "aliases": [],
+  "brand": "Jinpp (Jinneng)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO PELÍCULA JINPP HP520J",
+  "summary": "PP homopolímero para película (BOPP) según descripción aduanera; datasheet no hallado, MFR no verificado.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "HP525J",
+  "aliases": [],
+  "brand": "Jinpp (Jinneng)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO PELÍCULA JINPP HP525J",
+  "summary": "PP homopolímero grado BOPP (película biorientada); MFR del productor Jinpp no verificado.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/93928/moplen-hp525j",
+  "confidence": "baja"
+ },
+ {
+  "grade": "HP550J",
+  "aliases": [],
+  "brand": "Jinpp (Jinneng)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Rafia / monofilamento",
+   "Termoformado / lámina",
+   "Extrusión"
+  ],
+  "mi": 3.2,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO RAFIA JINPP HP550J",
+  "summary": "PP homopolímero para rafia, lámina para termoformado y monofilamento. MFR 3.2 g/10 min (230 °C/2.16 kg): fluidez baja para extrusión.",
+  "source_url": "https://www.chemategroup.com/pp-hp550j/",
+  "confidence": "media"
+ },
+ {
+  "grade": "HP550JF",
+  "aliases": [],
+  "brand": "Jinpp (Jinneng)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO PELÍCULA JINPP HP550JF",
+  "summary": "Variante de HP550J para película BOPP según descripción; MFR no verificado.",
+  "source_url": "https://www.chemategroup.com/pp-hp550j/",
+  "confidence": "baja"
+ },
+ {
+  "grade": "CG210NA",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 22,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.9,
+  "iv": null,
+  "name": "PP COPOLÍMERO IMPACTO INYECCIÓN BRASKEM CG210NA",
+  "summary": "Copolímero de PP para inyección de piezas técnicas y pared delgada, equilibrio rigidez/impacto. MFR 22 g/10 min (230 °C/2.16 kg): alta fluidez.",
+  "source_url": "https://www.polymerio.com/tds-pds/ppc-braskem-braskem-pp-cg210na--tds-pds",
+  "confidence": "media"
+ },
+ {
+  "grade": "FF030F2",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Película / film",
+   "Inyección"
+  ],
+  "mi": 3.0,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO PELÍCULA BRASKEM FF030F2",
+  "summary": "PP homopolímero nucleado para película (BOPP/estirable) y pared doble. MFR 3.0 g/10 min (230 °C/2.16 kg): fluidez baja.",
+  "source_url": "https://www.braskem.store/products/braskem-america-ff030f2",
+  "confidence": "media"
+ },
+ {
+  "grade": "CP 360H",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Fibra / no tejido"
+  ],
+  "mi": 34,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO FIBRA / NO TEJIDO BRASKEM CP 360H",
+  "summary": "PP homopolímero para no tejido spunbond. MFR 34 g/10 min (230 °C/2.16 kg): alta fluidez, distribución estrecha.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/34500/braskem-pp-cp360h",
+  "confidence": "media"
+ },
+ {
+  "grade": "H 202HC",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 23,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO INYECCIÓN BRASKEM H 202HC",
+  "summary": "PP homopolímero de alta rigidez para piezas técnicas grandes y electrodomésticos. MFR 23 g/10 min (230 °C/2.16 kg): fluidez alta.",
+  "source_url": "https://www.specialchem.com/plastics/product/braskem-h-202hc",
+  "confidence": "baja"
+ },
+ {
+  "grade": "H103",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Inyección",
+   "Película / film",
+   "Recubrimiento"
+  ],
+  "mi": 40,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.905,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO INYECCIÓN BRASKEM H103",
+  "summary": "PP homopolímero de alto MFR para inyección de pared delgada, tapas y recubrimiento de rafia. MFR 40 g/10 min (230 °C/2.16 kg): fluidez muy alta.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/78158/braskem-pp-h-103",
+  "confidence": "media"
+ },
+ {
+  "grade": "H 503",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Rafia / monofilamento",
+   "Inyección",
+   "Película / film"
+  ],
+  "mi": 3.5,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.905,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO RAFIA BRASKEM H 503",
+  "summary": "PP homopolímero de uso general para rafia, inyección, BOPP y extrusión. MFR 3.5 g/10 min (230 °C/2.16 kg): fluidez baja.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/78143/braskem-pp-h-503",
+  "confidence": "media"
+ },
+ {
+  "grade": "PH0130",
+  "aliases": [
+   "PH0130-P1500"
+  ],
+  "brand": "Petroquim",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Rafia / monofilamento",
+   "Extrusión",
+   "Soplado",
+   "Termoformado / lámina"
+  ],
+  "mi": 1.3,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.905,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO RAFIA PETROQUIM PH0130",
+  "summary": "Homopolímero de PP para rafia, lámina, correas, big bags y botellas soplado. MFR 1.3 g/10 min (230 °C/2.16 kg): fluidez baja, para extrusión y estirado.",
+  "source_url": "https://www.petroquim.cl/ph-0-130/",
+  "confidence": "alta"
+ },
+ {
+  "grade": "PG 480",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Rafia / monofilamento",
+   "Fibra / no tejido"
+  ],
+  "mi": null,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO RAFIA BRASKEM PG 480",
+  "summary": "PP homopolímero aditivado para rafia, big bags, cerdas y alfombras; MFR no leído.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/431498/braskem-pp-pg480",
+  "confidence": "baja"
+ },
+ {
+  "grade": "C702-20NA",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 18,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP COPOLÍMERO IMPACTO INYECCIÓN BRASKEM C702-20NA",
+  "summary": "Copolímero de impacto con nucleante y antiestático para inyección de alto impacto. MFR 18 g/10 min (230 °C/2.16 kg): fluidez alta.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/92777/braskem-pp-c702-20na",
+  "confidence": "media"
+ },
+ {
+  "grade": "EP 440P",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP COPOLÍMERO IMPACTO INYECCIÓN BRASKEM EP 440P",
+  "summary": "Copolímero de PP Braskem para inyección; MFR no verificado.",
+  "source_url": "https://www.specialchem.com/plastics/product/braskem-ep-440l",
+  "confidence": "baja"
+ },
+ {
+  "grade": "BE961MO",
+  "aliases": [],
+  "brand": "Borealis (Bormod)",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 12,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.905,
+  "iv": null,
+  "name": "PP COPOLÍMERO IMPACTO INYECCIÓN BOREALIS BE961MO",
+  "summary": "Copolímero heterofásico de alta rigidez e impacto para cajas, pailas y piezas técnicas. MFR 12 g/10 min (230 °C/2.16 kg).",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/74727/bormod-be961mo",
+  "confidence": "media"
+ },
+ {
+  "grade": "EP300H",
+  "aliases": [],
+  "brand": "Moplen (LyondellBasell)",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Termoformado / lámina",
+   "Soplado",
+   "Inyección"
+  ],
+  "mi": 1.8,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.9,
+  "iv": null,
+  "name": "PP COPOLÍMERO IMPACTO TERMOFORMADO MOPLEN EP300H",
+  "summary": "Copolímero de impacto para lámina corrugada, botellas sopladas, cajas y tapas. MFR 1.8 g/10 min (230 °C/2.16 kg): fluidez baja, buena resistencia al impacto en frío.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/90601/moplen-ep300h",
+  "confidence": "media"
+ },
+ {
+  "grade": "T36F",
+  "aliases": [],
+  "brand": "Moplen (LyondellBasell)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Termoformado / lámina",
+   "Película / film"
+  ],
+  "mi": 3.2,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO TERMOFORMADO MOPLEN T36F",
+  "summary": "PP Moplen T36F; la descripción aduanera lo indica para termoformado, un listado lo muestra como grado de película BOPP con MFR 3.2 g/10 min (230 °C/2.16 kg); no verificado en datasheet.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "L5D98",
+  "aliases": [
+   "L5D98-1"
+  ],
+  "brand": "Lotte Chemical",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO PELÍCULA LOTTE CHEMICAL L5D98",
+  "summary": "PP homopolímero para película BOPP (cigarrillos, alimentos, cintas adhesivas); MFR no verificado.",
+  "source_url": "https://bjslcy.en.made-in-china.com/product/KQbYOESHkjhw/China-Resin-Plastic-L5d98-BOPP-Polypropylene-Homopolymer-PP-Resin-for-Yarn.html",
+  "confidence": "baja"
+ },
+ {
+  "grade": "SFC-751R",
+  "aliases": [],
+  "brand": "Lotte Chemical",
+  "polymer": "PP copolímero random",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP COPOLÍMERO RANDOM PELÍCULA LOTTE CHEMICAL SFC-751R",
+  "summary": "Copolímero random de PP serie SFC para película CPP (cast); MFR no verificado.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "SB-550Y",
+  "aliases": [],
+  "brand": "Lotte Chemical",
+  "polymer": "PP copolímero random",
+  "applications": [
+   "Soplado",
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP COPOLÍMERO RANDOM SOPLADO LOTTE CHEMICAL SB-550Y",
+  "summary": "Copolímero random de PP de alta claridad, grado médico (botellas, soluciones IV), USP Class VI; MFR no leído.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/402899/lotte-sb-550y",
+  "confidence": "media"
+ },
+ {
+  "grade": "2020S",
+  "aliases": [],
+  "brand": "Formosa (Yungsox)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO PELÍCULA YUNGSOX 2020S",
+  "summary": "PP homopolímero Yungsox para película BOPP; MFR no verificado.",
+  "source_url": "https://www.specialchem.com/plastics/product/formosa-plastics-yungsox-pp2020",
+  "confidence": "baja"
+ },
+ {
+  "grade": "MP70",
+  "aliases": [],
+  "brand": "Dawn Polymer",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 70,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO INYECCIÓN DAWN MP70",
+  "summary": "PP homopolímero de MFR ~70 para inyección de pared delgada (listado de proveedor, no datasheet oficial).",
+  "source_url": "https://m.made-in-china.com/product/PP-Homo-Grade-MP70-for-Thin-Wall-Injection-with-Mfr-70-2050678042.html",
+  "confidence": "baja"
+ },
+ {
+  "grade": "PH0953",
+  "aliases": [],
+  "brand": "Petroquim",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 8,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO PELÍCULA PETROQUIM PH0953",
+  "summary": "PP homopolímero para película tubular mono o multicapa. MFR 8 g/10 min (230 °C/2.16 kg).",
+  "source_url": "https://www.petroquim.cl/ph-0-953/",
+  "confidence": "media"
+ },
+ {
+  "grade": "PH2615",
+  "aliases": [],
+  "brand": "Petroquim",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 27,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO INYECCIÓN PETROQUIM PH2615",
+  "summary": "PP homopolímero nucleado para inyección de pared delgada (envases alimentos). MFR 27 g/10 min (230 °C/2.16 kg): fluidez alta.",
+  "source_url": "https://www.petroquim.cl/ph-2615/",
+  "confidence": "media"
+ },
+ {
+  "grade": "PPH GF08",
+  "aliases": [],
+  "brand": "Genérico (sin marca)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO PELÍCULA PPH PPH GF08",
+  "summary": "PP homopolímero grado película (BOPP) según descripción; productor y MFR no identificados.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "E924",
+  "aliases": [],
+  "brand": "Formosa Plastics (Formolene)",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.04,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.949,
+  "iv": null,
+  "name": "HDPE PELÍCULA FORMOLENE E924",
+  "summary": "HDPE bimodal de alto peso molecular para película (bolsas, liners); no para tubería. MI 0.04 g/10 min (190 °C/2.16 kg), HLMI 8.5: fluidez muy baja, alta resistencia al impacto.",
+  "source_url": "https://horadpolimeros.com.br/fichas/PEAD%20-%20FORMOSA%20-%20E924.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "HDF8000",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.045,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.949,
+  "iv": null,
+  "name": "HDPE PELÍCULA BRASKEM HDF8000",
+  "summary": "HDPE bimodal de alto peso molecular para película delgada a alta velocidad. MI 0.045 g/10 min (190 °C/2.16 kg), 7.5 a 21.6 kg: fluidez muy baja.",
+  "source_url": "https://www.b2bpolymers.com/TDS/Braskem_HDF8000.pdf",
+  "confidence": "alta"
+ },
+ {
+  "grade": "HM6015",
+  "aliases": [],
+  "brand": "Cynpol (Vinmar)",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.06,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.952,
+  "iv": null,
+  "name": "HDPE PELÍCULA CYNPOL HM6015",
+  "summary": "HDPE bimodal de alto peso molecular para película (bolsas, liners). MI 0.06 g/10 min (190 °C/2.16 kg): fluidez muy baja.",
+  "source_url": "https://industrialmp.cl/cynpol-hm6015.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "TRB-115",
+  "aliases": [],
+  "brand": "Chevron Phillips (Marlex)",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.06,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.95,
+  "iv": null,
+  "name": "HDPE PELÍCULA MARLEX TRB-115",
+  "summary": "HDPE bimodal HMW (hexeno) para película soplada. MI 0.06 g/10 min (190 °C/2.16 kg), HLMI 9.5: fluidez muy baja.",
+  "source_url": "https://www.cpchem.com/what-we-do/solutions/polyethylene/products/marlexr-trb-115-polyethylene",
+  "confidence": "alta"
+ },
+ {
+  "grade": "M7100",
+  "aliases": [],
+  "brand": "Lotte Chemical",
+  "polymer": "HDPE",
+  "applications": [
+   "Tubería"
+  ],
+  "mi": 0.06,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.952,
+  "iv": null,
+  "name": "HDPE TUBERÍA LOTTE CHEMICAL M7100",
+  "summary": "HDPE PE100 (MRS 10) para tubería a presión (agua, gas, alcantarillado). MI 0.06 g/10 min (190 °C/2.16 kg): fluidez muy baja.",
+  "source_url": "https://www.b2bpolymers.com/TDS/Lotte_M7100.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "L4904",
+  "aliases": [],
+  "brand": "LyondellBasell (Alathon)",
+  "polymer": "HDPE",
+  "applications": [
+   "Tubería"
+  ],
+  "mi": 0.04,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.949,
+  "iv": null,
+  "name": "HDPE TUBERÍA ALATHON L4904",
+  "summary": "HDPE bimodal HMW para tubería a presión (gas, agua). MI 0.04 g/10 min (190 °C/2.16 kg), HLMI 7.0.",
+  "source_url": "https://www.lyondellbasell.com/en/polymers/p/Alathon-L4904/b7714470-1927-43a1-8550-ccb6f47eb0e5",
+  "confidence": "alta"
+ },
+ {
+  "grade": "DMDA-6200",
+  "aliases": [
+   "DMDA-6200 NT 7"
+  ],
+  "brand": "Dow (Unival)",
+  "polymer": "HDPE",
+  "applications": [
+   "Soplado",
+   "Inyección"
+  ],
+  "mi": 0.38,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.953,
+  "iv": null,
+  "name": "HDPE SOPLADO UNIVAL DMDA-6200",
+  "summary": "HDPE para soplado de envases industriales, alto ESCR. MI 0.38 g/10 min (190 °C/2.16 kg), 33 a 21.6 kg.",
+  "source_url": "https://www.dow.com/en-us/pdp.unival-dmda-6200-nt-7-high-density-polyethylene-resin.86299z.html",
+  "confidence": "alta"
+ },
+ {
+  "grade": "NG6895",
+  "aliases": [],
+  "brand": "Dow",
+  "polymer": "Otros",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.38,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.939,
+  "iv": null,
+  "name": "PE PELÍCULA DOW NG6895",
+  "summary": "MDPE (densidad media) para película soplada. MI 0.38 g/10 min (190 °C/2.16 kg), 10 a 21.6 kg.",
+  "source_url": "https://www.dow.com/en-us/pdp.dow-ng-6895-medium-density-polyethylene-resin.116320z.html",
+  "confidence": "alta"
+ },
+ {
+  "grade": "FB1350",
+  "aliases": [],
+  "brand": "Borouge (Borstar)",
+  "polymer": "Otros",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.6,
+  "mi_condition": "190 °C/5 kg",
+  "density": 0.935,
+  "iv": null,
+  "name": "PE PELÍCULA BORSTAR FB1350",
+  "summary": "PE de densidad media lineal (Borstar) para película de alta rigidez. MFR 0.6 g/10 min a 190 °C/5 kg (15 a 21.6 kg).",
+  "source_url": "https://www.borealisgroup.com/products/product-catalogue/borstar-fb1350",
+  "confidence": "media"
+ },
+ {
+  "grade": "132I",
+  "aliases": [],
+  "brand": "Dow",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.25,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.921,
+  "iv": null,
+  "name": "LDPE PELÍCULA DOW 132I",
+  "summary": "LDPE para película soplada de alta resistencia mecánica. MI 0.25 g/10 min (190 °C/2.16 kg): fluidez baja.",
+  "source_url": "https://www.dow.com/en-us/pdp.dow-132i-low-density-polyethylene-resin.31633z.html",
+  "confidence": "media"
+ },
+ {
+  "grade": "611A",
+  "aliases": [],
+  "brand": "Dow",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.88,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.924,
+  "iv": null,
+  "name": "LDPE PELÍCULA DOW 611A",
+  "summary": "LDPE para película soplada con buen balance óptico/mecánico. MI 0.88 g/10 min (190 °C/2.16 kg).",
+  "source_url": "https://www.dow.com/en-us/pdp.dow-611a-low-density-polyethylene-resin.48104z.html",
+  "confidence": "media"
+ },
+ {
+  "grade": "TX7003",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.27,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.922,
+  "iv": null,
+  "name": "LDPE PELÍCULA BRASKEM TX7003",
+  "summary": "LDPE de alto peso molecular para película pesada y termocontraíble. MI 0.27 g/10 min (190 °C/2.16 kg): fluidez baja.",
+  "source_url": "https://www.polydisteurope.com/assets/uploads/files/TX7003.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "LDF0025",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film",
+   "Inyección"
+  ],
+  "mi": 0.25,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.921,
+  "iv": null,
+  "name": "LDPE PELÍCULA BRASKEM LDF0025",
+  "summary": "LDPE de alto peso molecular sin deslizante/antibloqueo para película e inyección. MI 0.25 g/10 min (190 °C/2.16 kg).",
+  "source_url": "https://www.knowde.com/stores/braskem-america/products/braskem-america-ldf0025",
+  "confidence": "media"
+ },
+ {
+  "grade": "LDF2923SB",
+  "aliases": [
+   "LDF2921SB"
+  ],
+  "brand": "Tricolene (Tricon)",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.923,
+  "iv": null,
+  "name": "LDPE PELÍCULA TRICOLENE LDF2923SB",
+  "summary": "LDPE con deslizante y antibloqueo para película. MI 2.0 g/10 min (190 °C/2.16 kg): fluidez media.",
+  "source_url": "https://www.triconenergy.com/media/mrmjn4ki/tricolene-ldf2923sb-tds-english-2022-05-26.pdf",
+  "confidence": "alta"
+ },
+ {
+  "grade": "HI-864U",
+  "aliases": [],
+  "brand": "Certene (Muehlstein)",
+  "polymer": "HDPE",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 8,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.964,
+  "iv": null,
+  "name": "HDPE INYECCIÓN CERTENE HI-864U",
+  "summary": "HDPE homopolímero para moldeo por inyección, estabilizado UV. MI 8 g/10 min (190 °C/2.16 kg): fluidez alta, para artículos inyectados de pared delgada.",
+  "source_url": "https://doguspolimer.com/Uploads/Galeri_Pdf/HDPE-CERTENE-HI-864U.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "HPB-0354",
+  "aliases": [],
+  "brand": "Certene (Muehlstein)",
+  "polymer": "HDPE",
+  "applications": [
+   "Soplado"
+  ],
+  "mi": 0.35,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.954,
+  "iv": null,
+  "name": "HDPE SOPLADO CERTENE HPB-0354",
+  "summary": "HDPE copolímero Phillips para soplado de envases de químicos domésticos e industriales. MI 0.35 g/10 min (190 °C/2.16 kg; HLMI 30): baja fluidez, alta resistencia ESCR.",
+  "source_url": "https://www.muehlstein.com/download-product-pdf/index.php?id=73249&name=CERTENE%E2%84%A2+HPB-0354",
+  "confidence": "alta"
+ },
+ {
+  "grade": "HPB-0760",
+  "aliases": [],
+  "brand": "Certene (Muehlstein)",
+  "polymer": "HDPE",
+  "applications": [
+   "Soplado",
+   "Extrusión"
+  ],
+  "mi": 0.7,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.96,
+  "iv": null,
+  "name": "HDPE SOPLADO CERTENE HPB-0760",
+  "summary": "HDPE Phillips para soplado de botellas de pared delgada (leche, agua, jugos) y extrusión de lámina/perfiles. MI 0.70 g/10 min (190 °C/2.16 kg): fluidez baja-media.",
+  "source_url": "https://www.muehlstein.com/download-product-pdf/index.php?id=73251&name=CERTENE%E2%84%A2+HPB-0760",
+  "confidence": "alta"
+ },
+ {
+  "grade": "T30S",
+  "aliases": [],
+  "brand": "Sinopec / Kunlun",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Rafia / monofilamento",
+   "Película / film"
+  ],
+  "mi": 3,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.91,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO RAFIA SINOPEC / KUNLUN T30S",
+  "summary": "PP homopolímero para rafia, sacos tejidos y film. MI 3 g/10 min (230 °C/2.16 kg): fluidez baja, apta para extrusión de cinta.",
+  "source_url": "https://www.jinhetec.com/pp-resin/59438152.html",
+  "confidence": "media"
+ },
+ {
+  "grade": "RP 149",
+  "aliases": [
+   "RP 149 PL14"
+  ],
+  "brand": "Braskem",
+  "polymer": "PP copolímero random",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 87,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.902,
+  "iv": null,
+  "name": "PP COPOLÍMERO RANDOM INYECCIÓN BRASKEM RP 149",
+  "summary": "PP random de alta fluidez para inyección de piezas transparentes. MI 87 g/10 min (230 °C/2.16 kg): muy alta fluidez, ciclos rápidos y pared delgada.",
+  "source_url": "https://www.specialchem.com/plastics/product/braskem-rp-149",
+  "confidence": "media"
+ },
+ {
+  "grade": "RP 340S",
+  "aliases": [
+   "RP 340S PL14"
+  ],
+  "brand": "Braskem",
+  "polymer": "PP copolímero random",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 45,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.902,
+  "iv": null,
+  "name": "PP COPOLÍMERO RANDOM INYECCIÓN BRASKEM RP 340S",
+  "summary": "PP random para inyección de pared delgada y alta claridad. MI 45 g/10 min (230 °C/2.16 kg): alta fluidez.",
+  "source_url": "https://www.specialchem.com/plastics/product/braskem-rp-340r",
+  "confidence": "media"
+ },
+ {
+  "grade": "L5005",
+  "aliases": [],
+  "brand": "LyondellBasell (Alathon)",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.06,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.949,
+  "iv": null,
+  "name": "HDPE PELÍCULA LYONDELLBASELL L5005",
+  "summary": "HDPE de alto peso molecular bimodal para película soplada (bolsas, camisetas). MI 0.06 g/10 min (190 °C/2.16 kg): muy baja fluidez, permite film muy delgado.",
+  "source_url": "https://www.lyondellbasell.com/en/polymers/p/Alathon-L5005/45eb2cae-5201-4ad2-8c60-a16744ce3cc3",
+  "confidence": "alta"
+ },
+ {
+  "grade": "S2040",
+  "aliases": [],
+  "brand": "China Energy (Shenhua)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Fibra / no tejido"
+  ],
+  "mi": 38,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.9,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO FIBRA / NO TEJIDO CHINA ENERGY S2040",
+  "summary": "PP homopolímero para spunbond y tela no tejida. MI ~36-40 g/10 min (230 °C/2.16 kg) según proveedor: alta fluidez para hilado.",
+  "source_url": "https://stavianchem.com/sites/default/files/product-specs/S2040.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "LDF2723S1",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2.7,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "LDPE PELÍCULA BRASKEM LDF2723S1",
+  "summary": "LDPE para película (cast, bolsas y sacos). MI 2.7 g/10 min (190 °C/2.16 kg): fluidez media, buen balance óptico-mecánico.",
+  "source_url": "https://doguspolimer.com/Uploads/Galeri_Pdf/BRASKEM-LDF2023S1-LDPE.pdf",
+  "confidence": "baja"
+ },
+ {
+  "grade": "CP 741",
+  "aliases": [
+   "CP 741 PL14"
+  ],
+  "brand": "Braskem",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Soplado",
+   "Termoformado / lámina",
+   "Extrusión"
+  ],
+  "mi": 0.8,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.895,
+  "iv": null,
+  "name": "PP COPOLÍMERO IMPACTO SOPLADO BRASKEM CP 741",
+  "summary": "PP heterofásico de baja fluidez para soplado, lámina y termoformado de alto impacto. MI 0.8 g/10 min (230 °C/2.16 kg): alta resistencia en fundido.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/78164/braskem-pp-cp-741",
+  "confidence": "alta"
+ },
+ {
+  "grade": "EB853/72",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2.7,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.923,
+  "iv": null,
+  "name": "LDPE PELÍCULA BRASKEM EB853/72",
+  "summary": "LDPE para película soplada y laminación, con antibloqueo y deslizante. MI 2.7 g/10 min (190 °C/2.16 kg): fluidez media.",
+  "source_url": "https://www.matweb.com/search/datasheet_print.aspx?matguid=51742db824884fcbba68a270b055f6aa",
+  "confidence": "media"
+ },
+ {
+  "grade": "H 107",
+  "aliases": [
+   "H 107 PL14"
+  ],
+  "brand": "Braskem",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO INYECCIÓN BRASKEM H 107",
+  "summary": "PP homopolímero Braskem; no se pudo leer la ficha, MI sin verificar.",
+  "source_url": "https://www.braskem.com/portal/europe/arquivos/listas/14237/thumb.pdf",
+  "confidence": "baja"
+ },
+ {
+  "grade": "FB2230",
+  "aliases": [
+   "BORSTAR FB2230"
+  ],
+  "brand": "Borouge (Borstar)",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.25,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.923,
+  "iv": null,
+  "name": "LLDPE PELÍCULA BOROUGE FB2230",
+  "summary": "LLDPE bimodal Borstar de alto peso molecular para película (embalaje, agrícola). MI 0.25 g/10 min (190 °C/2.16 kg; 22 a 21.6 kg): fluidez baja, gran resistencia.",
+  "source_url": "https://www.borouge.com/en/e-service/DataSheets/Borstar%C2%AE%20FB2230/FB2230-SIS.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "LD2023BR",
+  "aliases": [],
+  "brand": "ExxonMobil",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.923,
+  "iv": null,
+  "name": "LDPE PELÍCULA EXXONMOBIL LD2023BR",
+  "summary": "LDPE homopolímero para película soplada o cast con claridad y rigidez. MI 2.0 g/10 min (190 °C/2.16 kg): fluidez media.",
+  "source_url": "https://www.exxonmobilchemical.com/en/chemicals/webapi/dps/v1/datasheets/150000000521/0/en",
+  "confidence": "alta"
+ },
+ {
+  "grade": "HDF05952",
+  "aliases": [],
+  "brand": "Tricolene (Tricon)",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.057,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.952,
+  "iv": null,
+  "name": "HDPE PELÍCULA TRICOLENE HDF05952",
+  "summary": "HDPE bimodal hexeno de alto peso molecular para película delgada (bolsas camiseta). MI 0.057 g/10 min (190 °C/2.16 kg; HLMI 9): baja fluidez, buen draw-down.",
+  "source_url": "https://www.specialchem.com/plastics/product/tricon-energy-tricolene-hdf05952",
+  "confidence": "media"
+ },
+ {
+  "grade": "LDF-0218A",
+  "aliases": [],
+  "brand": "Certene (Muehlstein)",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "LDPE PELÍCULA CERTENE LDF-0218A",
+  "summary": "LDPE prime para película soplada de uso pesado industrial. MI no leído en la ficha pública.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/73264/certene-ldf-0218a",
+  "confidence": "media"
+ },
+ {
+  "grade": "PH4040",
+  "aliases": [],
+  "brand": "Petroquim",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Inyección",
+   "Rafia / monofilamento"
+  ],
+  "mi": 40,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.905,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO INYECCIÓN PETROQUIM PH4040",
+  "summary": "PP homopolímero para inyección (envases de alimentos, cosméticos, juguetes) y recubrimiento de rafia. MI 40 g/10 min (230 °C/2.16 kg): alta fluidez.",
+  "source_url": "https://www.petroquim.cl/wp-content/uploads/2025/07/FT-PH4040-Abr-2025.pdf",
+  "confidence": "alta"
+ },
+ {
+  "grade": "C4LL2018XBU",
+  "aliases": [],
+  "brand": "ExxonMobil",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.918,
+  "iv": null,
+  "name": "LLDPE PELÍCULA EXXONMOBIL C4LL2018XBU",
+  "summary": "LLDPE buteno para película soplada. MI 2.0 g/10 min (190 °C/2.16 kg) según la serie C4LL 2018: fluidez media. Variante XBU no verificada.",
+  "source_url": "https://exxonmobilchemical.ides.com/datasheet.aspx?I=58933&FMT=PDF&CULTURE=en-US&PS=PE&E=244007",
+  "confidence": "media"
+ },
+ {
+  "grade": "FS7000",
+  "aliases": [],
+  "brand": "STL",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "HDPE PELÍCULA STL FS7000",
+  "summary": "HDPE de película STL; MI no verificado en ficha del productor.",
+  "source_url": "https://www.alibaba.com/product-detail/STL-Polyethylene-Ldpe-Hdpe-Lldpe-FS7000_1601714143054.html",
+  "confidence": "baja"
+ },
+ {
+  "grade": "JV060U",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "HDPE",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 7.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.957,
+  "iv": null,
+  "name": "HDPE INYECCIÓN BRASKEM JV060U",
+  "summary": "HDPE para inyección de cajas, tapas, baldes y pallets. MI 7 g/10 min (190 °C/2.16 kg): fluidez alta.",
+  "source_url": "https://www.lookpolymers.com/polymer_Braskem-JV-060U-HDPE-Injection-Molding-Polyethylene.php",
+  "confidence": "media"
+ },
+ {
+  "grade": "TRB-432",
+  "aliases": [],
+  "brand": "GS Caltex",
+  "polymer": "HDPE",
+  "applications": [
+   "Tubería"
+  ],
+  "mi": 0.3,
+  "mi_condition": "190 °C/5 kg",
+  "density": 0.948,
+  "iv": null,
+  "name": "HDPE TUBERÍA PE100 GS CALTEX TRB-432",
+  "summary": "HDPE PE100 natural para tubería de presión (agua, gas). MI ~0.30 g/10 min (190 °C/5 kg): muy baja fluidez, alta resistencia a fisura lenta.",
+  "source_url": "https://www.indiamart.com/proddetail/gs-caltex-hdpe-pe100-0-30-mfi-trb432-2852118678448.html",
+  "confidence": "media"
+ },
+ {
+  "grade": "HDI8965UV",
+  "aliases": [],
+  "brand": "Tricolene (Tricon)",
+  "polymer": "HDPE",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "HDPE INYECCIÓN TRICOLENE HDI8965UV",
+  "summary": "HDPE homopolímero UV para inyección (cajas, jabas); MI no leído en los extractos de la ficha.",
+  "source_url": "https://www.triconenergy.com/media/z0klfcy0/tricolene-hdi8965uv-tds-english.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "CL9010",
+  "aliases": [],
+  "brand": "Lotte Chemical (Hivorex)",
+  "polymer": "HDPE",
+  "applications": [
+   "Inyección",
+   "Soplado"
+  ],
+  "mi": 1.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.955,
+  "iv": null,
+  "name": "HDPE INYECCIÓN LOTTE CHEMICAL CL9010",
+  "summary": "HDPE de amplia distribución para tapas y cierres de bebidas carbonatadas. MI 1.0 g/10 min (190 °C/2.16 kg): fluidez baja-media.",
+  "source_url": "https://www.somochem.com/Images/PolymerProduct/28/PolymerAttribute/14082024085231e07a844f-aa44-44cd-96b7-ff52dc954f54.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "L4904LS",
+  "aliases": [],
+  "brand": "LyondellBasell (Alathon)",
+  "polymer": "HDPE",
+  "applications": [
+   "Tubería"
+  ],
+  "mi": 0.15,
+  "mi_condition": "190 °C/5 kg",
+  "density": 0.949,
+  "iv": null,
+  "name": "HDPE TUBERÍA LYONDELLBASELL L4904LS",
+  "summary": "HDPE bimodal para tubería de presión (gas, agua, minería). MI 0.15 g/10 min (190 °C/5 kg; HLMI 7.5): muy baja fluidez.",
+  "source_url": "https://www.lyondellbasell.com/en/polymers/p/Alathon-L4904LS/ba67cfb9-2001-467c-8add-210e42fdda80",
+  "confidence": "alta"
+ },
+ {
+  "grade": "B53-35H-011",
+  "aliases": [],
+  "brand": "INEOS",
+  "polymer": "HDPE",
+  "applications": [
+   "Soplado"
+  ],
+  "mi": 0.35,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.955,
+  "iv": null,
+  "name": "HDPE SOPLADO INEOS B53-35H-011",
+  "summary": "HDPE copolímero para soplado con alta carga superior y buen ESCR. MI 0.35 g/10 min (190 °C/2.16 kg): baja fluidez.",
+  "source_url": "https://www.ineos.com/show-document/?grade=B53-35H-011&bu=INEOS+O+%2526+P+USA&documentType=Technical+Data+Sheet&docLanguage=US-EN",
+  "confidence": "alta"
+ },
+ {
+  "grade": "HS5407",
+  "aliases": [
+   "HS5407 BR25"
+  ],
+  "brand": "Braskem",
+  "polymer": "HDPE",
+  "applications": [
+   "Soplado",
+   "Extrusión"
+  ],
+  "mi": 0.3,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "HDPE SOPLADO BRASKEM HS5407",
+  "summary": "HDPE copolímero de alto peso molecular para soplado de tambores hasta 200 L y lámina. MI 0.3 g/10 min (190 °C/2.16 kg): baja fluidez.",
+  "source_url": "https://plastics.ulprospector.com/datasheet/e214231/braskem-pe-hs5407",
+  "confidence": "media"
+ },
+ {
+  "grade": "FL2202A",
+  "aliases": [],
+  "brand": "Formosa Plastics (Formolene)",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "LDPE PELÍCULA FORMOSA PLASTICS FL2202A",
+  "summary": "LDPE con deslizante y antibloqueo para película. MI 2.0 g/10 min (190 °C/2.16 kg): fluidez media.",
+  "source_url": "https://www.fpcusa.com/content/uploads/participants-database/formolene_fl2202a_1.pdf",
+  "confidence": "alta"
+ },
+ {
+  "grade": "PH0952",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 8.0,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.905,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO PELÍCULA BRASKEM PH0952",
+  "summary": "PP homopolímero con deslizante y antibloqueo para película cast y soplada. MI 8 g/10 min (230 °C/2.16 kg): fluidez media-alta.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/84685/braskem-pp-ph-0952",
+  "confidence": "media"
+ },
+ {
+  "grade": "DFDC-7059",
+  "aliases": [
+   "DFDC-7059 NT 7"
+  ],
+  "brand": "Dow",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.918,
+  "iv": null,
+  "name": "LLDPE PELÍCULA STRETCH DOW DFDC-7059",
+  "summary": "LLDPE buteno para film stretch cast y película delgada. MI 2.0 g/10 min (190 °C/2.16 kg): fluidez media.",
+  "source_url": "https://www.dow.com/en-us/pdp.dow-dfdc-7059-nt-7-lldp.521109z.html",
+  "confidence": "alta"
+ },
+ {
+  "grade": "LLDPE-2401",
+  "aliases": [],
+  "brand": "Exelene (Montachem)",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2.25,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "LLDPE PELÍCULA EXELENE LLDPE-2401",
+  "summary": "LLDPE buteno Ziegler-Natta para película soplada y cast. MI 2.25 g/10 min (190 °C/2.16 kg): fluidez media.",
+  "source_url": "https://montachem.com/wp-content/uploads/2013/10/EXELENE-LLDPE-2401.pdf",
+  "confidence": "alta"
+ },
+ {
+  "grade": "2039G",
+  "aliases": [],
+  "brand": "Dow (Dowlex)",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "LLDPE PELÍCULA DOW 2039G",
+  "summary": "Dowlex LLDPE; no se encontró la ficha de este código, MI sin verificar.",
+  "source_url": "https://www.dow.com/en-us/products-solutions/polyethylene/products-family.html",
+  "confidence": "baja"
+ },
+ {
+  "grade": "2045G",
+  "aliases": [],
+  "brand": "Dow (Dowlex)",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 1.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.92,
+  "iv": null,
+  "name": "LLDPE PELÍCULA DOW 2045G",
+  "summary": "LLDPE octeno para película industrial y de consumo (tenacidad, resistencia al rasgado). MI 1.0 g/10 min (190 °C/2.16 kg): fluidez baja-media.",
+  "source_url": "https://www.dow.com/en-us/pdp.dowlex-2045g-polyethylene-resin.7650z.html",
+  "confidence": "alta"
+ },
+ {
+  "grade": "PE 100",
+  "aliases": [],
+  "brand": "MGI",
+  "polymer": "HDPE",
+  "applications": [
+   "Tubería"
+  ],
+  "mi": null,
+  "mi_condition": "190 °C/5 kg",
+  "density": null,
+  "iv": null,
+  "name": "HDPE TUBERÍA PE100 MGI PE 100",
+  "summary": "HDPE PE100 para tubería de presión; sin ficha del productor identificada.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "BF7000",
+  "aliases": [],
+  "brand": "Sinopec",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.04,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.952,
+  "iv": null,
+  "name": "HDPE PELÍCULA SINOPEC BF7000",
+  "summary": "HDPE para película ultradelgada. MI ~0.04 g/10 min (190 °C/2.16 kg), valor del grado equivalente 7000F; no verificado para BF7000.",
+  "source_url": "https://kahrobaco.com/wp-content/uploads/2025/09/F7000.pdf",
+  "confidence": "baja"
+ },
+ {
+  "grade": "YS-W01",
+  "aliases": [],
+  "brand": "Yisheng",
+  "polymer": "PET",
+  "applications": [
+   "Soplado",
+   "Termoformado / lámina"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": 1.39,
+  "iv": 0.8,
+  "name": "PET SOPLADO YISHENG YS-W01",
+  "summary": "PET grado botella (agua) copoliéster claro. IV 0.80 dL/g: típico para botellas de bebidas.",
+  "source_url": "https://tajchem.com/plastic-polymers/pet-polyethylene-terephthalate/yisheng-pet-ys-w01/",
+  "confidence": "media"
+ },
+ {
+  "grade": "LF320",
+  "aliases": [
+   "LF320 PL14"
+  ],
+  "brand": "Braskem",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2.7,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.919,
+  "iv": null,
+  "name": "LLDPE PELÍCULA STRETCH BRASKEM LF320",
+  "summary": "LLDPE para película cast, principalmente stretch. MI 2.7 g/10 min (190 °C/2.16 kg): fluidez media.",
+  "source_url": "https://qbetma.com/PDF/Fichas-Tecnicas/TDS-LLDPE-LF320.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "HP500N",
+  "aliases": [],
+  "brand": "Jinneng",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 12,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO INYECCIÓN JINNENG HP500N",
+  "summary": "PP homopolímero de uso general para inyección (menaje, tapas, cajas). MI ~10-12 g/10 min (230 °C/2.16 kg): fluidez alta.",
+  "source_url": "https://www.chemategroup.com/wp-content/uploads/2026/06/HP500N-TDS.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "PDR093",
+  "aliases": [],
+  "brand": "ExxonMobil",
+  "polymer": "PP copolímero random",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP COPOLÍMERO RANDOM PELÍCULA EXXONMOBIL PDR093",
+  "summary": "PP random para película cast según la descripción aduanera; ficha no hallada, MI sin verificar.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "FR2233C",
+  "aliases": [],
+  "brand": "Formosa Plastics (Formolene)",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.33,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.922,
+  "iv": null,
+  "name": "LDPE PELÍCULA FORMOSA PLASTICS FR2233C",
+  "summary": "LDPE de índice fraccional sin aditivos para película pesada. MI 0.33 g/10 min (190 °C/2.16 kg): alta resistencia en fundido.",
+  "source_url": "https://www.fpcusa.com/content/uploads/participants-database/formolene_fr2233c.pdf",
+  "confidence": "alta"
+ },
+ {
+  "grade": "PPH Y26",
+  "aliases": [],
+  "brand": "Sinopec",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Fibra / no tejido"
+  ],
+  "mi": 25,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.9,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO FIBRA / NO TEJIDO SINOPEC PPH Y26",
+  "summary": "PP homopolímero para hilado spunbond de alta velocidad. MI 25 ±3 g/10 min (230 °C/2.16 kg): fluidez alta.",
+  "source_url": "https://www.chemategroup.com/pph-y26/",
+  "confidence": "media"
+ },
+ {
+  "grade": "EF2126S3",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2.6,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "LDPE PELÍCULA BRASKEM EF2126S3",
+  "summary": "LDPE para película soplada óptica. MI ~2.6 g/10 min (190 °C/2.16 kg) según distribuidor: fluidez media.",
+  "source_url": "https://www.jinsxsj.com/products/show11892293.html",
+  "confidence": "baja"
+ },
+ {
+  "grade": "5502M",
+  "aliases": [
+   "HDPE 5502M"
+  ],
+  "brand": "Exelene (Montachem)",
+  "polymer": "HDPE",
+  "applications": [
+   "Soplado"
+  ],
+  "mi": 0.35,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.955,
+  "iv": null,
+  "name": "HDPE SOPLADO EXELENE 5502M",
+  "summary": "HDPE hexeno para soplado de botellas hasta 10 L (químicos, shampoo). MI 0.35 g/10 min (190 °C/2.16 kg; HLMI 30): baja fluidez.",
+  "source_url": "https://montachem.com/wp-content/uploads/2013/10/EXELENE-HDPE-5502M.pdf",
+  "confidence": "alta"
+ },
+ {
+  "grade": "ACP 5331",
+  "aliases": [
+   "ACP 5331 H B"
+  ],
+  "brand": "LyondellBasell (Hostalen)",
+  "polymer": "HDPE",
+  "applications": [
+   "Inyección",
+   "Tapas / compresión"
+  ],
+  "mi": 2.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.953,
+  "iv": null,
+  "name": "HDPE INYECCIÓN LYONDELLBASELL ACP 5331",
+  "summary": "HDPE Hostalen para inyección y compresión (tapas, cierres); es polietileno, no PET. MI 2.0 g/10 min (190 °C/2.16 kg): fluidez media.",
+  "source_url": "https://www.lyondellbasell.com/en/polymers/p/HOSTALEN-ACP-5331-H-B/a15dab85-f213-48db-ae9d-544274b671a7",
+  "confidence": "alta"
+ },
+ {
+  "grade": "HDF1050",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.06,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.949,
+  "iv": null,
+  "name": "HDPE PELÍCULA BRASKEM HDF1050",
+  "summary": "HDPE bimodal de alto peso molecular para película soplada (bolsas). MI 0.06 g/10 min (190 °C/2.16 kg; HLMI 9.5): muy baja fluidez.",
+  "source_url": "https://www.bnplas.com/wp-content/uploads/2023/01/HDPE-FILM-HDF1050-BRASKEM.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "EP648U",
+  "aliases": [],
+  "brand": "LyondellBasell (Moplen)",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP COPOLÍMERO IMPACTO INYECCIÓN LYONDELLBASELL EP648U",
+  "summary": "PP copolímero heterofásico; ficha no verificada, MI sin dato.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "UH513M",
+  "aliases": [],
+  "brand": "DL Chemical (Daelim)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO PELÍCULA DL CHEMICAL UH513M",
+  "summary": "PP homopolímero Daelim para película; ficha no verificada, MI sin dato.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "M70",
+  "aliases": [],
+  "brand": "Dawn Polymer",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO INYECCIÓN DAWN POLYMER M70",
+  "summary": "PP homopolímero para inyección; ficha no verificada, MI sin dato.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "K9928H",
+  "aliases": [],
+  "brand": "China Energy",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP COPOLÍMERO IMPACTO INYECCIÓN CHINA ENERGY K9928H",
+  "summary": "PP copolímero para inyección; ficha no verificada, MI sin dato.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "IP-10262",
+  "aliases": [],
+  "brand": "Dow (Dowlex)",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "LLDPE PELÍCULA DOW IP-10262",
+  "summary": "Dowlex IP-10262, LLDPE según descripción aduanera; ficha no verificada, MI sin dato.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "EP440N",
+  "aliases": [],
+  "brand": "Sinopec",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PP COPOLÍMERO IMPACTO INYECCIÓN SINOPEC EP440N",
+  "summary": "Copolímero de impacto de PP Sinopec de MFR medio, para piezas inyectadas (electrodomésticos, juguetes, cajas). No se pudo leer el MFR exacto.",
+  "source_url": "https://bjslcy.en.made-in-china.com/product/YEZRghpxbwWO/China-Polypropylene-Plastic-Granules-PP-Medium-Mfr-Grade-Ep440n.html",
+  "confidence": "baja"
+ },
+ {
+  "grade": "PH0322",
+  "aliases": [],
+  "brand": "Petroquim",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Rafia / monofilamento",
+   "Extrusión"
+  ],
+  "mi": 3.8,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO RAFIA PETROQUIM PH0322",
+  "summary": "PP homopolímero para extrusión de rafia (sacos tejidos). MI 3.8 g/10 min (230 °C/2.16 kg): fluidez media-baja, buena para cinta y telar.",
+  "source_url": "https://www.petroquim.cl/wp-content/uploads/2024/04/FT-PH0322-Mar-2024.pdf",
+  "confidence": "alta"
+ },
+ {
+  "grade": "PH0334",
+  "aliases": [],
+  "brand": "Petroquim",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Rafia / monofilamento",
+   "Extrusión"
+  ],
+  "mi": 3.3,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO RAFIA PETROQUIM PH0334",
+  "summary": "PP homopolímero Petroquim de fluidez media-baja (MI 3.3 g/10 min, 230 °C/2.16 kg), para extrusión de rafia y usos industriales.",
+  "source_url": "https://www.petroquim.cl/productos/",
+  "confidence": "media"
+ },
+ {
+  "grade": "PH0522",
+  "aliases": [],
+  "brand": "Petroquim",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Rafia / monofilamento",
+   "Extrusión"
+  ],
+  "mi": 4.8,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO RAFIA PETROQUIM PH0522",
+  "summary": "PP homopolímero para rafia en equipos de alta velocidad. MI 4.8 g/10 min (230 °C/2.16 kg): fluidez media, buena tenacidad.",
+  "source_url": "https://www.petroquim.cl/ph-0-522/",
+  "confidence": "media"
+ },
+ {
+  "grade": "PH1310",
+  "aliases": [],
+  "brand": "Petroquim",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Inyección",
+   "Extrusión"
+  ],
+  "mi": 13,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO INYECCIÓN PETROQUIM PH1310",
+  "summary": "PP homopolímero de alta fluidez (MI 13 g/10 min, 230 °C/2.16 kg), usado en envases para alimentos y piezas inyectadas.",
+  "source_url": "https://www.petroquim.cl/productos/",
+  "confidence": "media"
+ },
+ {
+  "grade": "M1650",
+  "aliases": [],
+  "brand": "LG Chem (SEETEC)",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 30,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.9,
+  "iv": null,
+  "name": "PP COPOLÍMERO IMPACTO INYECCIÓN LG CHEM M1650",
+  "summary": "Copolímero de impacto de PP nucleado para inyección. MI 30 g/10 min (230 °C/2.16 kg): alta fluidez, ciclos cortos en envases y vasos.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/385862/seetec-pp-m1650",
+  "confidence": "media"
+ },
+ {
+  "grade": "CP 295",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 20,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.895,
+  "iv": null,
+  "name": "PP COPOLÍMERO IMPACTO INYECCIÓN BRASKEM CP 295",
+  "summary": "Copolímero heterofásico de PP con alto impacto para inyección y compuestos. MI 20 g/10 min (230 °C/2.16 kg): fluidez alta.",
+  "source_url": "https://www2.ulprospector.com/plastics/de/datasheet/214208/braskem-pp-cp-295",
+  "confidence": "media"
+ },
+ {
+  "grade": "CP 396XP",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 11,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.895,
+  "iv": null,
+  "name": "PP COPOLÍMERO IMPACTO INYECCIÓN BRASKEM CP 396XP",
+  "summary": "Copolímero heterofásico de PP para piezas inyectadas con buen balance rigidez/impacto. MI 11 g/10 min (230 °C/2.16 kg): fluidez media.",
+  "source_url": "https://www.braskem.com/portal/europe/arquivos/listas/14237/thumb.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "CP 100",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PP COPOLÍMERO IMPACTO INYECCIÓN BRASKEM CP 100",
+  "summary": "Copolímero heterofásico de PP de alto MFR y muy alta rigidez, para inyección de paredes delgadas. No se leyó el valor exacto de MFR.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/214253/braskem-pp-cp-100",
+  "confidence": "media"
+ },
+ {
+  "grade": "H 606",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Termoformado / lámina",
+   "Extrusión"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO TERMOFORMADO BRASKEM H 606",
+  "summary": "PP homopolímero de bajo MFR para extrusión de lámina y termoformado de envases. No se leyó el valor exacto de MFR.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/78166/braskem-pp-h-606",
+  "confidence": "media"
+ },
+ {
+  "grade": "H 503HS",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Rafia / monofilamento",
+   "Fibra / no tejido"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO RAFIA BRASKEM H 503HS",
+  "summary": "PP homopolímero de bajo MFR para rafia y monofilamento (cuerdas, redes, sacos tejidos). No se leyó el valor exacto de MFR.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/117425/braskem-pp-h-503hs",
+  "confidence": "media"
+ },
+ {
+  "grade": "H 301",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Inyección",
+   "Fibra / no tejido"
+  ],
+  "mi": 10,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.905,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO INYECCIÓN BRASKEM H 301",
+  "summary": "PP homopolímero de alto MFR para inyección y fibras. MI 10 g/10 min (230 °C/2.16 kg): buena fluidez para piezas y redes.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/78127/braskem-pp-h-301",
+  "confidence": "media"
+ },
+ {
+  "grade": "FT200WV",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 20,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO INYECCIÓN BRASKEM FT200WV",
+  "summary": "PP homopolímero nucleado para inyección rápida (menaje, tapas). MI 20 g/10 min (230 °C/2.16 kg): fluidez alta.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/66473/braskem-pp-ft200wv",
+  "confidence": "media"
+ },
+ {
+  "grade": "20H92N",
+  "aliases": [],
+  "brand": "Esenttia",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 22,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO INYECCIÓN ESENTTIA 20H92N",
+  "summary": "PP homopolímero nucleado de alta fluidez para inyección de envases de pared delgada. MI 22 g/10 min (230 °C/2.16 kg).",
+  "source_url": "https://www.knowde.com/stores/esenttia/products/esenttia-20h92n",
+  "confidence": "media"
+ },
+ {
+  "grade": "PHF-2",
+  "aliases": [],
+  "brand": "Certene (Muehlstein)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Termoformado / lámina",
+   "Extrusión"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO TERMOFORMADO CERTENE PHF-2",
+  "summary": "PP homopolímero de alta resistencia en fundido para lámina y termoformado de envases transparentes. No se leyó el MFR.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/72673/certene-phf-2",
+  "confidence": "media"
+ },
+ {
+  "grade": "KS359 HP",
+  "aliases": [],
+  "brand": "Eltex (INEOS)",
+  "polymer": "PP copolímero random",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 5,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP COPOLÍMERO RANDOM FILM ELTEX KS359 HP",
+  "summary": "Copolímero random de PP para capa sellante de película BOPP coextruida. MI 5 g/10 min (230 °C/2.16 kg, ISO 1133).",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/424038/eltex-p-ks359-hp",
+  "confidence": "media"
+ },
+ {
+  "grade": "B-320",
+  "aliases": [],
+  "brand": "Lotte Chemical (Kopelen)",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Termoformado / lámina",
+   "Extrusión",
+   "Soplado"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PP COPOLÍMERO IMPACTO TERMOFORMADO LOTTE CHEMICAL B-320",
+  "summary": "Copolímero de impacto de PP para lámina, formado al vacío y cartón corrugado. No se leyó el MFR.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/134966/lotte-b-320",
+  "confidence": "media"
+ },
+ {
+  "grade": "Z30S",
+  "aliases": [],
+  "brand": "Kunlun (PetroChina)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Fibra / no tejido",
+   "Rafia / monofilamento"
+  ],
+  "mi": 25,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO FIBRA KUNLUN Z30S",
+  "summary": "PP homopolímero de alta fluidez para fibras, no tejido spunbond y rafia. MI aprox. 25 g/10 min (rango 23-26, 230 °C/2.16 kg).",
+  "source_url": "https://www.polypvc.com/pp-material/Polypropylene-Resin-Fiber-Grade--Z30S.html",
+  "confidence": "media"
+ },
+ {
+  "grade": "Y26",
+  "aliases": [],
+  "brand": "Energy Oriental",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Fibra / no tejido",
+   "Rafia / monofilamento"
+  ],
+  "mi": 25,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO FIBRA ENERGY ORIENTAL Y26",
+  "summary": "PP homopolímero de fibra (equivalente a Z30S) para no tejido y alfombras. MI aprox. 25 g/10 min (230 °C/2.16 kg).",
+  "source_url": "https://www.chemategroup.com/pph-y26/",
+  "confidence": "baja"
+ },
+ {
+  "grade": "HS5502",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "HDPE",
+  "applications": [
+   "Soplado",
+   "Inyección"
+  ],
+  "mi": 32,
+  "mi_condition": "190 °C/21.6 kg",
+  "density": 0.955,
+  "iv": null,
+  "name": "HDPE SOPLADO BRASKEM HS5502",
+  "summary": "HDPE copolímero de alto peso molecular para soplado de envases. HLMI 32 g/10 min (190 °C/21.6 kg), equivale a MI aprox. 0.35: baja fluidez, buena resistencia al agrietamiento.",
+  "source_url": "https://resinex.com/en-IE/products/282-braskem-hdpe-hs5502",
+  "confidence": "media"
+ },
+ {
+  "grade": "HS5502XP",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "HDPE",
+  "applications": [
+   "Soplado"
+  ],
+  "mi": 32,
+  "mi_condition": "190 °C/21.6 kg",
+  "density": 0.955,
+  "iv": null,
+  "name": "HDPE SOPLADO BRASKEM HS5502XP",
+  "summary": "Variante de HS5502 con paquete de aditivos XP, para soplado de envases. Se asumen valores de HS5502 (HLMI 32 g/10 min, 190 °C/21.6 kg).",
+  "source_url": "https://resinex.com/en-IE/products/282-braskem-hdpe-hs5502",
+  "confidence": "baja"
+ },
+ {
+  "grade": "HD5502H",
+  "aliases": [],
+  "brand": "Cynpol",
+  "polymer": "HDPE",
+  "applications": [
+   "Soplado"
+  ],
+  "mi": 0.35,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.955,
+  "iv": null,
+  "name": "HDPE SOPLADO CYNPOL HD5502H",
+  "summary": "HDPE tipo 5502 para soplado de envases. MI 0.35 g/10 min (190 °C/2.16 kg): baja fluidez, alta resistencia al agrietamiento por tensión.",
+  "source_url": "https://www.vinmar.com/wp-content/uploads/Cynpol-Brochure.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "HD-5502",
+  "aliases": [],
+  "brand": "Snetor (distribuidor)",
+  "polymer": "HDPE",
+  "applications": [
+   "Soplado"
+  ],
+  "mi": 0.35,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.955,
+  "iv": null,
+  "name": "HDPE SOPLADO SNETOR HD-5502",
+  "summary": "HDPE de soplado tipo 5502 comercializado por Snetor; valores típicos del grado 5502 (MI 0.35 g/10 min), no verificados en ficha propia.",
+  "source_url": "https://polymers.totalenergies.com/5502",
+  "confidence": "baja"
+ },
+ {
+  "grade": "HD-0060F",
+  "aliases": [],
+  "brand": "Snetor (distribuidor)",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "HDPE FILM SNETOR HD-0060F",
+  "summary": "HDPE para película/bolsas de alta densidad comercializado por Snetor. No se halló ficha técnica.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "HDB0355",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "HDPE",
+  "applications": [
+   "Soplado"
+  ],
+  "mi": 0.35,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.953,
+  "iv": null,
+  "name": "HDPE SOPLADO BRASKEM HDB0355",
+  "summary": "HDPE copolímero para soplado de envases (hogar, química, farmacia). MI 0.35 g/10 min (190 °C/2.16 kg): baja fluidez con buen ESCR.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/371654/braskem-pe-hdb0355",
+  "confidence": "media"
+ },
+ {
+  "grade": "HDI0861U1",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "HDPE",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 8.5,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.961,
+  "iv": null,
+  "name": "HDPE INYECCIÓN BRASKEM HDI0861U1",
+  "summary": "HDPE de inyección con distribución estrecha y UV. MI 8.5 g/10 min (190 °C/2.16 kg): alta fluidez para cajas, baldes y bandejas.",
+  "source_url": "https://www.b2bpolymers.com/TDS/Braskem_HDI0861U1.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "65N8U",
+  "aliases": [],
+  "brand": "Shell Polymers",
+  "polymer": "HDPE",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 8.2,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.965,
+  "iv": null,
+  "name": "HDPE INYECCIÓN SHELL POLYMERS 65N8U",
+  "summary": "HDPE homopolímero de inyección para cajas y cestas. MI 8.2 g/10 min (190 °C/2.16 kg): alta fluidez y rigidez.",
+  "source_url": "https://www.b2bpolymers.com/TDS/Shell_HDPE_65N8U.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "LH735-000",
+  "aliases": [],
+  "brand": "LyondellBasell (Petrothene)",
+  "polymer": "HDPE",
+  "applications": [
+   "Soplado"
+  ],
+  "mi": 0.35,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "HDPE SOPLADO LYONDELLBASELL LH735-000",
+  "summary": "HDPE para soplado de frascos y envases. MI 0.35 g/10 min (190 °C/2.16 kg): baja fluidez, buena rigidez y ESCR.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/293728/petrothene-lh735000",
+  "confidence": "media"
+ },
+ {
+  "grade": "HB3553",
+  "aliases": [],
+  "brand": "Icelene",
+  "polymer": "HDPE",
+  "applications": [
+   "Soplado"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "HDPE SOPLADO ICELENE HB3553",
+  "summary": "HDPE Icelene serie HB (soplado) de uso industrial. No se halló ficha técnica.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "TCP-2495",
+  "aliases": [],
+  "brand": "Dow",
+  "polymer": "HDPE",
+  "applications": [
+   "Tubería",
+   "Extrusión"
+  ],
+  "mi": 0.21,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.946,
+  "iv": null,
+  "name": "HDPE TUBERÍA DOW TCP-2495",
+  "summary": "HDPE UNIPOL para ductos y cable en conducto. MI 0.21 g/10 min (190 °C/2.16 kg): baja fluidez.",
+  "source_url": "https://www.dow.com/en-us/pdp.dow-tcp-2495-nt-high-density-polyethylene-resin.80496z.html",
+  "confidence": "alta"
+ },
+ {
+  "grade": "HDPE-7000",
+  "aliases": [],
+  "brand": "Exelene (Montachem)",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.07,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "HDPE FILM EXELENE HDPE-7000",
+  "summary": "HDPE de alto peso molecular para película soplada (bolsas camiseta). MI 0.07 g/10 min (190 °C/2.16 kg); HLMI 8.5 (21.6 kg).",
+  "source_url": "https://montachem.com/wp-content/uploads/2025/06/EXELENE-HDPE-HMW-7000.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "HDPE PE100 NC",
+  "aliases": [],
+  "brand": "Exelene (Montachem)",
+  "polymer": "HDPE",
+  "applications": [
+   "Tubería"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "HDPE TUBERÍA EXELENE HDPE PE100 NC",
+  "summary": "HDPE PE100 natural para tubería a presión. No se halló ficha específica.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "STL SF7000",
+  "aliases": [],
+  "brand": "STL",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "HDPE FILM STL STL SF7000",
+  "summary": "HDPE de película tipo 7000F (alto peso molecular). No se halló ficha del productor.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "DB 506",
+  "aliases": [],
+  "brand": "Eraclene (Versalis)",
+  "polymer": "HDPE",
+  "applications": [
+   "Tubería",
+   "Extrusión"
+  ],
+  "mi": 0.23,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "HDPE TUBERÍA ERACLENE DB 506",
+  "summary": "HDPE copolímero (hexeno) para tubería de riego por goteo y mangueras. MI 0.23 g/10 min (190 °C/2.16 kg).",
+  "source_url": "https://plasmar.com.tr/core/uploads/page/document/DB506.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "DFDF-7047",
+  "aliases": [],
+  "brand": "Dow",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 1.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.918,
+  "iv": null,
+  "name": "LLDPE FILM DOW DFDF-7047",
+  "summary": "LLDPE buteno para película soplada. Valores (MI 1.0, 0.918) de la familia 7047 (DFDA); no verificados para DFDF.",
+  "source_url": "https://www.dow.com/en-us/pdp.-dow-dfdf-7047-nt-7-linear-low-density-polyethylene-resin.513438z.html",
+  "confidence": "baja"
+ },
+ {
+  "grade": "1020RE",
+  "aliases": [],
+  "brand": "ExxonMobil (Exceed Flow)",
+  "polymer": "mLLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 1.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.92,
+  "iv": null,
+  "name": "mLLDPE FILM EXXONMOBIL 1020RE",
+  "summary": "Polietileno metaloceno (hexeno) para película soplada. MI 1.0 g/10 min (190 °C/2.16 kg): fluidez media.",
+  "source_url": "https://www.exxonmobilchemical.com/en/chemicals/webapi/dps/v1/datasheets/150000104622/0/en",
+  "confidence": "alta"
+ },
+ {
+  "grade": "18F1B2",
+  "aliases": [],
+  "brand": "Shell Polymers",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 1.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.918,
+  "iv": null,
+  "name": "LLDPE FILM SHELL POLYMERS 18F1B2",
+  "summary": "LLDPE buteno con antibloqueo y deslizante para película soplada. MI 1.0 g/10 min (190 °C/2.16 kg).",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/476243/shell-polymers-lldpe-18f1b2",
+  "confidence": "media"
+ },
+ {
+  "grade": "LLBF-122F",
+  "aliases": [],
+  "brand": "Certene (Muehlstein)",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 1.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.922,
+  "iv": null,
+  "name": "LLDPE FILM CERTENE LLBF-122F",
+  "summary": "LLDPE buteno para película soplada de uso general (bolsas, liners). MI 1.0 g/10 min (190 °C/2.16 kg).",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/152805/certene-llbf-122f",
+  "confidence": "media"
+ },
+ {
+  "grade": "PF-0118-C",
+  "aliases": [
+   "PF-118C"
+  ],
+  "brand": "Novapol (NOVA Chemicals)",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 1.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.918,
+  "iv": null,
+  "name": "LLDPE FILM NOVAPOL PF-0118-C",
+  "summary": "LLDPE buteno con antibloqueo para liners y bolsas de uso pesado. MI 1.0 g/10 min (190 °C/2.16 kg).",
+  "source_url": "https://www.novachem.com/wp-content/uploads/NOVAPOLPF-0118_Series_DS_EN.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "503A",
+  "aliases": [],
+  "brand": "Dow",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 1.9,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.923,
+  "iv": null,
+  "name": "LDPE FILM DOW 503A",
+  "summary": "LDPE con deslizante y antibloqueo para película soplada industrial. MI 1.9 g/10 min (190 °C/2.16 kg).",
+  "source_url": "https://www.dow.com/en-us/pdp.dow-503a-low-density-polyethylene-resin.47778z.html",
+  "confidence": "alta"
+ },
+ {
+  "grade": "LD 2022.AC",
+  "aliases": [],
+  "brand": "ExxonMobil",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.923,
+  "iv": null,
+  "name": "LDPE FILM EXXONMOBIL LD 2022.AC",
+  "summary": "LDPE con deslizante y antibloqueo para película soplada. MI 2.0 g/10 min (190 °C/2.16 kg).",
+  "source_url": "https://exxonmobilchemical.ides.com/datasheet.aspx?I=58933&FMT=PDF&CULTURE=en-US&PS=PE&E=243939",
+  "confidence": "media"
+ },
+ {
+  "grade": "LD0223F",
+  "aliases": [],
+  "brand": "Cynpol",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.923,
+  "iv": null,
+  "name": "LDPE FILM CYNPOL LD0223F",
+  "summary": "LDPE con deslizante y antibloqueo para película soplada (mangas, bolsas, láminas). MI 2.0 g/10 min (190 °C/2.16 kg).",
+  "source_url": "https://resimport.com.br/painel/arquivos/a1252af3ff.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "LD7000A",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.34,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.921,
+  "iv": null,
+  "name": "LDPE FILM BRASKEM LD7000A",
+  "summary": "LDPE autoclave de baja fluidez para película de alto desempeño (bolsas pesadas, agrícola). MI 0.34 g/10 min (190 °C/2.16 kg).",
+  "source_url": "https://www.lookpolymers.com/pdf/Braskem-LD7000A-LDPE-Blown-Film-Extrusion-Polyethylene.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "YS-C01",
+  "aliases": [],
+  "brand": "Yisheng Dahua",
+  "polymer": "PET",
+  "applications": [
+   "Soplado"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": 0.875,
+  "name": "PET SOPLADO YISHENG DAHUA YS-C01",
+  "summary": "PET grado botella para bebidas carbonatadas. IV 0.875 dL/g: alta viscosidad para botellas por soplado-estirado.",
+  "source_url": "https://www.chemategroup.com/ys-c01-pet/",
+  "confidence": "media"
+ },
+ {
+  "grade": "Laser+ B90A",
+  "aliases": [
+   "DAK PET B90A"
+  ],
+  "brand": "Alpek Polyester (DAK)",
+  "polymer": "PET",
+  "applications": [
+   "Soplado"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": 0.84,
+  "name": "PET SOPLADO ALPEK POLYESTER LASER+ B90A",
+  "summary": "PET copolímero para botellas de bebidas carbonatadas. IV 0.84 dL/g.",
+  "source_url": "https://www.alpekpolyester.com/wp-content/uploads/2022/06/Laser-CSD-B90A-PI-3.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "T-94",
+  "aliases": [],
+  "brand": "Polyclear (Indorama)",
+  "polymer": "PET",
+  "applications": [
+   "Soplado"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": 0.86,
+  "name": "PET SOPLADO POLYCLEAR T-94",
+  "summary": "PET para botellas retornables de bebidas carbonatadas. IV nominal 0.86 dL/g (ficha T-94; sufijo AS no verificado).",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/371902/polyclear-pet-t-94",
+  "confidence": "media"
+ },
+ {
+  "grade": "CB-616",
+  "aliases": [],
+  "brand": "Eastlon (FENC)",
+  "polymer": "PET",
+  "applications": [
+   "Soplado"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PET SOPLADO EASTLON CB-616",
+  "summary": "PET grado botella de Far Eastern New Century. No se halló ficha de CB-616; la familia CB-60x tiene IV aprox. 0.80-0.84.",
+  "source_url": "https://insights.viztaar.com/wp-content/uploads/2024/01/Polymer_PET_Bottle_Grade_0.84_IV_CSD_Far_Eastern_CB608.pdf",
+  "confidence": "baja"
+ },
+ {
+  "grade": "PET BH-801",
+  "aliases": [],
+  "brand": "Desconocida",
+  "polymer": "PET",
+  "applications": [
+   "Soplado"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PET SOPLADO DESCONOCIDA PET BH-801",
+  "summary": "Resina PET grado botella para preformas. No se halló ficha técnica.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "HY-02",
+  "aliases": [],
+  "brand": "Hengyi",
+  "polymer": "PET",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PET FILM HENGYI HY-02",
+  "summary": "Chip de poliéster súper brillante para película BOPET. No se halló ficha técnica.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "EP300HB",
+  "aliases": [
+   "PP EP300HB"
+  ],
+  "brand": "Moplen (LyondellBasell)",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Extrusión",
+   "Termoformado / lámina"
+  ],
+  "mi": 1.8,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP COPOLÍMERO IMPACTO EXTRUSIÓN MOPLEN EP300HB",
+  "summary": "Copolímero heterofásico (impacto) de polipropileno para extrusión y lámina termoformada. MFR 1.8 g/10 min (230 °C/2.16 kg): fluidez baja, buena resistencia al impacto para extrusión de perfiles y lámina.",
+  "source_url": "https://www.lyondellbasell.com/en/polymers/p/Moplen-EP300H-B/8019feaf-f5cb-497e-ad38-23bac5b4b8fd",
+  "confidence": "media"
+ },
+ {
+  "grade": "DFDA-7042",
+  "aliases": [
+   "7042"
+  ],
+  "brand": "Baofeng (Luban)",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.92,
+  "iv": null,
+  "name": "LLDPE PELÍCULA BAOFENG DFDA-7042",
+  "summary": "LLDPE de buteno para película soplada y estirable (stretch). MI 2 g/10 min (190 °C/2.16 kg): fluidez media, equilibrio entre procesabilidad y resistencia mecánica en film.",
+  "source_url": "https://assets.oq.com/-/media/oq/files/tds/tds_dfda_7042_astm.pdf?rev=49d2bd37031f47d98ebed7af990648ac",
+  "confidence": "media"
+ },
+ {
+  "grade": "1100N",
+  "aliases": [],
+  "brand": "No identificado",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO 1100N",
+  "summary": "Polipropileno según descripción aduanera; no se pudo identificar con certeza el productor ni leer el MFR, por lo que el dato es solo orientativo.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "HT9045NX",
+  "aliases": [],
+  "brand": "Sinopec (Maoming)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Inyección",
+   "Fibra / no tejido"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO INYECCIÓN SINOPEC HT9045NX",
+  "summary": "Homopolímero de PP de Sinopec Maoming (serie HT, de alta fluidez); no se pudo leer el MFR en la ficha, solo se confirmó que existe en plas.com.",
+  "source_url": "https://www.plas.com/technical-data/detail/21E12010502B6EA39D48516872177E98",
+  "confidence": "baja"
+ },
+ {
+  "grade": "LD0221F",
+  "aliases": [],
+  "brand": "Cynpol (Vinmar)",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "LDPE PELÍCULA CYNPOL LD0221F",
+  "summary": "LDPE con aditivo deslizante y antibloqueo para película delgada (bolsas de pan, textiles, empaque de alimentos). MI 2 g/10 min (190 °C/2.16 kg): fluidez media para film soplado de buena claridad.",
+  "source_url": "http://primeplastichem.vn/hat-nhua-ldpe-ld-0221f",
+  "confidence": "media"
+ },
+ {
+  "grade": "NA321210",
+  "aliases": [],
+  "brand": "Petrothene (LyondellBasell)",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.9231,
+  "iv": null,
+  "name": "LDPE PELÍCULA PETROTHENE NA321210",
+  "summary": "LDPE homopolímero para película de buena claridad y rigidez (bolsas de pan, empaque de alimentos, burbuja). MI 2.0 g/10 min (190 °C/2.16 kg): fluidez media típica de film soplado.",
+  "source_url": "https://www.lyondellbasell.com/en/polymers/p/Petrothene-NA321210/1bc7b66c-8d23-4950-9aaf-4847ae793979",
+  "confidence": "alta"
+ },
+ {
+  "grade": "HDF06950",
+  "aliases": [],
+  "brand": "Tricolene (Tricon)",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.06,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.949,
+  "iv": null,
+  "name": "HDPE PELÍCULA TRICOLENE HDF06950",
+  "summary": "HDPE bimodal de alto peso molecular para película delgada con buena rigidez y resistencia al dardo. MI 0.06 g/10 min (190 °C/2.16 kg): muy baja fluidez, para film de alta resistencia.",
+  "source_url": "https://www.triconenergy.com/media/uikjrkic/tricolene-hdf06950-tds-english.pdf",
+  "confidence": "alta"
+ },
+ {
+  "grade": "EP548S",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 44,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.9,
+  "iv": null,
+  "name": "PP COPOLÍMERO IMPACTO INYECCIÓN BRASKEM EP548S",
+  "summary": "Copolímero heterofásico de alta fluidez para inyección rápida de pared delgada (envases de alimentos, contenedores). MFR 44 g/10 min (230 °C/2.16 kg): fluidez muy alta, ciclos cortos.",
+  "source_url": "https://www.specialchem.com/plastics/product/braskem-ep-548s",
+  "confidence": "media"
+ },
+ {
+  "grade": "LDF-2023",
+  "aliases": [
+   "LDF-2023 S1"
+  ],
+  "brand": "Braskem",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.922,
+  "iv": null,
+  "name": "LDPE PELÍCULA BRASKEM LDF2023",
+  "summary": "LDPE sin aditivar con buenas propiedades ópticas y procesabilidad, para película soplada y cast (bolsas, empaque flexible). MI 2.0 g/10 min (190 °C/2.16 kg): fluidez media.",
+  "source_url": "https://www.braskem.store/products/braskem-america-ldf2023",
+  "confidence": "alta"
+ },
+ {
+  "grade": "HDB5502",
+  "aliases": [],
+  "brand": "Tricolene (Tricon)",
+  "polymer": "HDPE",
+  "applications": [
+   "Soplado"
+  ],
+  "mi": 0.35,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.955,
+  "iv": null,
+  "name": "HDPE SOPLADO TRICOLENE HDB5502",
+  "summary": "HDPE copolímero de hexeno de alto peso molecular para soplado de envases livianos (químicos domésticos, hieleras). MI 0.35 g/10 min (190 °C/2.16 kg): baja fluidez, buena resistencia al agrietamiento.",
+  "source_url": "https://placeresinas.com.br/wp-content/uploads/2020/10/Tricolene-HDPE-HDB5502.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "HD8008",
+  "aliases": [],
+  "brand": "No identificado (posible FREP DMDA-8008)",
+  "polymer": "HDPE",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "HDPE INYECCIÓN HD8008",
+  "summary": "HDPE de código HD8008, probablemente equivalente a un grado de inyección de MI cercano a 8; no se verificó la ficha del productor.",
+  "source_url": "https://juyuans.com/wp-content/uploads/2025/02/FREP-HDPE-DMDA8008_TDS.pdf",
+  "confidence": "baja"
+ },
+ {
+  "grade": "HD55110",
+  "aliases": [],
+  "brand": "Sinochem Energy",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.3,
+  "mi_condition": "190 °C/5 kg",
+  "density": 0.948,
+  "iv": null,
+  "name": "HDPE PELÍCULA SINOCHEM HD55110",
+  "summary": "HDPE de película para empaque de alimentos, laminación y bolsas. MI 0.30 g/10 min (190 °C/5 kg; HLMI 6.4 a 21.6 kg): baja fluidez, para film delgado de alta resistencia.",
+  "source_url": "https://www.cyfinechemical.com/sale-43948876-hd-55110-hdpe-film-grade-high-density-polyethylene-melt-flow-index-0-30g-10min-processing-tempreture.html",
+  "confidence": "media"
+ },
+ {
+  "grade": "V30G",
+  "aliases": [],
+  "brand": "PP V30G (varios productores)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 16,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.9,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO INYECCIÓN V30G",
+  "summary": "Homopolímero de PP para inyección de menaje, juguetes, tapas y piezas de pared delgada. MFR 16 g/10 min (230 °C/2.16 kg): fluidez alta-media.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/142972/neftekhim-pp-1500p-v30g",
+  "confidence": "media"
+ },
+ {
+  "grade": "NSY114G",
+  "aliases": [],
+  "brand": "NSRP (Nghi Son)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Rafia / monofilamento",
+   "Extrusión"
+  ],
+  "mi": 3.5,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.91,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO RAFIA NSRP NSY114G",
+  "summary": "Homopolímero de PP para cinta/rafia (sacos tejidos, cuerdas, geotextiles). MFR 3.5 g/10 min (230 °C/2.16 kg): fluidez baja-media adecuada para estirado de cinta.",
+  "source_url": "http://www.balkanpolymers.com/wp-content/uploads/2024/04/NSY114G.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "HD23050",
+  "aliases": [
+   "23050"
+  ],
+  "brand": "Baofeng",
+  "polymer": "HDPE",
+  "applications": [
+   "Tubería"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "HDPE TUBERÍA BAOFENG HD23050",
+  "summary": "HDPE PE100 para tubería de presión; no se pudo leer el MI en la ficha (los PE100 suelen medirse a 190 °C/5 kg, valores bajos de 0.2-0.5).",
+  "source_url": "https://www.fengbaiplas.com/hdpe-23050/",
+  "confidence": "baja"
+ },
+ {
+  "grade": "LL2920B",
+  "aliases": [],
+  "brand": "PMI",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "LLDPE PELÍCULA PMI LL2920B",
+  "summary": "LLDPE de la serie 2920 para película; no se encontró ficha para leer el MI.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "HD0865UV",
+  "aliases": [],
+  "brand": "Cynpol (Vinmar)",
+  "polymer": "HDPE",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 8.2,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.965,
+  "iv": null,
+  "name": "HDPE INYECCIÓN CYNPOL HD0865UV",
+  "summary": "HDPE homopolímero de distribución estrecha para inyección de cajones, pallets y envases. MI 8.2 g/10 min (190 °C/2.16 kg): fluidez alta, buena rigidez y resistencia al impacto en frío.",
+  "source_url": "https://www.b2bpolymers.com/TDS/Cynpol_HD0865UV.pdf",
+  "confidence": "alta"
+ },
+ {
+  "grade": "05H82-AV",
+  "aliases": [
+   "HOMOPOLIMERO 05H82",
+   "HOMOPOLIMERO 05H82-AV"
+  ],
+  "brand": "Esenttia",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Rafia / monofilamento",
+   "Extrusión"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO RAFIA ESENTTIA 05H82-AV",
+  "summary": "Homopolímero de PP para cinta/rafia de tejidos de alta velocidad, cuerdas y big bags; no se pudo leer el MFR.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/260598/esenttia-05h82-av",
+  "confidence": "media"
+ },
+ {
+  "grade": "K8009",
+  "aliases": [
+   "PPB-M09"
+  ],
+  "brand": "Sinopec",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 8.5,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP COPOLÍMERO IMPACTO INYECCIÓN SINOPEC K8009",
+  "summary": "Copolímero de PP (PPB-M09) para inyección de envases y artículos domésticos. MFR ~8.5 g/10 min (230 °C/2.16 kg): fluidez media-alta; las fuentes difieren sobre si es bloque o random.",
+  "source_url": "https://www.chemdo.com/polypropylene-resin-ppb-m09-k8009-product/",
+  "confidence": "media"
+ },
+ {
+  "grade": "CB-602",
+  "aliases": [],
+  "brand": "Eastlon (FENC)",
+  "polymer": "PET",
+  "applications": [
+   "Inyección",
+   "Soplado"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": 0.8,
+  "name": "PET INYECCIÓN SOPLADO EASTLON CB-602",
+  "summary": "PET grado botella (copolímero tereftalato-isoftalato) para inyección de preformas y soplado. IV 0.80 dL/g: viscosidad estándar para botellas de bebidas.",
+  "source_url": "https://upmold.com/wp-content/uploads/data-sheet/PET%20cb-602.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "LF321FC",
+  "aliases": [
+   "LF321"
+  ],
+  "brand": "Braskem",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "LLDPE PELÍCULA BRASKEM LF321FC",
+  "summary": "Copolímero de etileno y alfa-olefina para película (serie LF320 de Braskem, MI 2.7 en LF320); no se encontró la ficha de LF321FC.",
+  "source_url": "https://www.braskem.store/products/braskem-america-lf320",
+  "confidence": "baja"
+ },
+ {
+  "grade": "HD 49100HL",
+  "aliases": [],
+  "brand": "ExxonMobil",
+  "polymer": "HDPE",
+  "applications": [
+   "Soplado"
+  ],
+  "mi": 10,
+  "mi_condition": "190 °C/21.6 kg",
+  "density": 0.949,
+  "iv": null,
+  "name": "HDPE SOPLADO EXXONMOBIL HD 49100HL",
+  "summary": "HDPE copolímero de alto peso molecular con gran resistencia al agrietamiento por tensión para soplado industrial. HLMI 10 g/10 min (190 °C/21.6 kg; MI 2.16 kg <0.10): baja fluidez, para botellas y tambores.",
+  "source_url": "https://quantum-polymers.files.svdcdn.com/production/datasheets/hd-49100hl-paxon-bc50-100/ExxonMobil-HD-49100HL-Paxon-BC50-100.pdf?dm=1742496751",
+  "confidence": "alta"
+ },
+ {
+  "grade": "HA7260",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "HDPE",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 20,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.955,
+  "iv": null,
+  "name": "HDPE INYECCIÓN BRASKEM HA7260",
+  "summary": "HDPE para inyección de baldes, tapas, juguetes y piezas de pared delgada. MI 20 g/10 min (190 °C/2.16 kg): fluidez muy alta, alta productividad.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/84647/braskem-pe-ha7260",
+  "confidence": "alta"
+ },
+ {
+  "grade": "LLB2919",
+  "aliases": [],
+  "brand": "Tricolene (Tricon)",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.919,
+  "iv": null,
+  "name": "LLDPE PELÍCULA TRICOLENE LLB2919",
+  "summary": "LLDPE Ziegler-Natta para película estirable cast, empaque de alimentos y bolsas. MI 2.0 g/10 min (190 °C/2.16 kg): fluidez media.",
+  "source_url": "https://www.triconenergy.com/media/n2ofwhjp/tricolene-llb2919-tds-english-2022-06-27.pdf",
+  "confidence": "alta"
+ },
+ {
+  "grade": "TUB121GN",
+  "aliases": [
+   "TUB121GN(NATURAL)",
+   "TUB121"
+  ],
+  "brand": "INEOS",
+  "polymer": "HDPE",
+  "applications": [
+   "Tubería"
+  ],
+  "mi": 0.45,
+  "mi_condition": "190 °C/5 kg",
+  "density": 0.959,
+  "iv": null,
+  "name": "HDPE TUBERÍA INEOS TUB121GN",
+  "summary": "HDPE bimodal PE100 natural para tubería de presión (agua potable, gas). MFR 0.45 g/10 min (190 °C/5 kg): baja fluidez, resistencia a la fluencia a largo plazo.",
+  "source_url": "https://www.matweb.com/search/datasheettext.aspx?matguid=055bebc2e47c43e59e4c3f672346f646",
+  "confidence": "media"
+ },
+ {
+  "grade": "LDF02919",
+  "aliases": [],
+  "brand": "Tricolene (Tricon)",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.25,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.919,
+  "iv": null,
+  "name": "LDPE PELÍCULA TRICOLENE LDF02919",
+  "summary": "LDPE de alto peso molecular para película pesada (invernadero, bolsas industriales, termocontraíble). MI 0.25 g/10 min (190 °C/2.16 kg): baja fluidez, alta resistencia de fusión.",
+  "source_url": "https://www.triconenergy.com/media/ejrfkapj/tricolene-ldf02919sb-tds-english-2022-06.pdf",
+  "confidence": "alta"
+ },
+ {
+  "grade": "5502BN",
+  "aliases": [],
+  "brand": "Marlex (Chevron Phillips)",
+  "polymer": "HDPE",
+  "applications": [
+   "Soplado"
+  ],
+  "mi": 0.35,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.955,
+  "iv": null,
+  "name": "HDPE SOPLADO MARLEX HHM 5502BN",
+  "summary": "HDPE copolímero de hexeno de alto peso molecular para soplado de envases livianos y hieleras. MI 0.35 g/10 min (190 °C/2.16 kg): baja fluidez.",
+  "source_url": "https://www.b2bpolymers.com/TDS/QChem_Marlex_HHM_5502BN.pdf",
+  "confidence": "alta"
+ },
+ {
+  "grade": "Exceed Flow m 0327.RA",
+  "aliases": [
+   "CPAI26042",
+   "CPAI26033"
+  ],
+  "brand": "ExxonMobil (Exceed)",
+  "polymer": "mLLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.3,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.927,
+  "iv": null,
+  "name": "mLLDPE PELÍCULA ExxonMobil Exceed Flow m 0327.RA",
+  "summary": "mLLDPE etileno-hexeno para película. MI 0.30 g/10 min (190 °C/2.16 kg): fluidez baja, alta resistencia del fundido para film grueso/industrial.",
+  "source_url": "https://www.exxonmobilchemical.com/en/chemicals/webapi/dps/v1/datasheets/150000104625/0/en",
+  "confidence": "alta"
+ },
+ {
+  "grade": "XS10N",
+  "aliases": [],
+  "brand": "Hanwha",
+  "polymer": "HDPE",
+  "applications": [
+   "Tubería"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": 0.948,
+  "iv": null,
+  "name": "HDPE TUBERÍA HANWHA XS10N",
+  "summary": "HDPE bimodal PE100 (MRS 10 MPa) para tubería de presión; no se pudo leer el MI en la ficha.",
+  "source_url": "https://insights.viztaar.com/hdpe-pipe-hanwha-xs10n/",
+  "confidence": "baja"
+ },
+ {
+  "grade": "FL7000",
+  "aliases": [
+   "HDPE FL7000",
+   "HIVOREX FL7000"
+  ],
+  "brand": "Hivorex (Lotte Chemical)",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.035,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.956,
+  "iv": null,
+  "name": "HDPE PELÍCULA LOTTE HIVOREX FL7000",
+  "summary": "HDPE bimodal para bolsas tipo camiseta, bolsas de basura y film industrial. MI 0.035 g/10 min (190 °C/2.16 kg): muy baja fluidez, para film delgado de alta resistencia.",
+  "source_url": "https://www.b2bpolymers.com/TDS/Lotte_Chemical_FL7000.pdf",
+  "confidence": "alta"
+ },
+ {
+  "grade": "P600",
+  "aliases": [
+   "HDPE P600"
+  ],
+  "brand": "Yuhwa Hiden (KPIC)",
+  "polymer": "HDPE",
+  "applications": [
+   "Tubería"
+  ],
+  "mi": 0.22,
+  "mi_condition": "190 °C/5 kg",
+  "density": null,
+  "iv": null,
+  "name": "HDPE TUBERÍA KPIC HIDEN P600",
+  "summary": "HDPE PE100 natural para tubería de gas y agua. MI 0.22 g/10 min (190 °C/5 kg): baja fluidez típica de tubería de presión.",
+  "source_url": "https://www.kpic.co.kr/hp/en/product/polymer/specsheet.asp?grade=P600&pm_cd=2603",
+  "confidence": "alta"
+ },
+ {
+  "grade": "PN049-030-122",
+  "aliases": [
+   "PN049-030-122LS",
+   "PN049"
+  ],
+  "brand": "Sinopec",
+  "polymer": "HDPE",
+  "applications": [
+   "Tubería"
+  ],
+  "mi": 0.24,
+  "mi_condition": "190 °C/5 kg",
+  "density": null,
+  "iv": null,
+  "name": "HDPE TUBERÍA SINOPEC PN049-030-122",
+  "summary": "HDPE PE100 natural para tubería de presión. MI ~0.24 g/10 min (rango 0.20-0.35; una fuente indica 2.16 kg pero lo habitual en PE100 es 5 kg): baja fluidez.",
+  "source_url": "https://www.polypvc.com/hdpe/Highdensity-polyethylene-pipe-grade--PN049.html",
+  "confidence": "media"
+ },
+ {
+  "grade": "WH 7000F",
+  "aliases": [],
+  "brand": "Wanhua",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.04,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.952,
+  "iv": null,
+  "name": "HDPE PELÍCULA WANHUA WH 7000F",
+  "summary": "HDPE de película clase 7000F; valores tomados de fichas 7000F de otros productores, no de Wanhua. MI ~0.04 g/10 min (190 °C/2.16 kg): muy baja fluidez, bolsas y film delgado.",
+  "source_url": "https://www.eymenpetrokimya.com.tr/wp-content/uploads/2020/05/HDPE_LOTTECHEMICAL_7000F_EYMEN_PETROK%C4%B0MYA.pdf",
+  "confidence": "baja"
+ },
+ {
+  "grade": "CZ-318",
+  "aliases": [],
+  "brand": "Jade (Jiangsu Jade / Indorama)",
+  "polymer": "PET",
+  "applications": [
+   "Inyección",
+   "Soplado"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": 0.85,
+  "name": "PET INYECCIÓN SOPLADO JADE CZ-318",
+  "summary": "PET grado botella para aceite comestible, licores y cosméticos. IV 0.85 dL/g: viscosidad media-alta para mayor resistencia mecánica.",
+  "source_url": "https://www.chemategroup.com/jade-cz-318-pet/",
+  "confidence": "media"
+ },
+ {
+  "grade": "HYS6200",
+  "aliases": [
+   "HYS620"
+  ],
+  "brand": "Petrocuyo",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Rafia / monofilamento",
+   "Extrusión"
+  ],
+  "mi": 1.8,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO RAFIA PETROCUYO HYS6200",
+  "summary": "Homopolímero de PP grado rafia/extrusión (cinta tejida, envases). MFR 1.8 g/10 min (condición 230 °C/2.16 kg supuesta): fluidez baja para estirado.",
+  "source_url": "https://eixosnetor.com.br/produtos/commodities/pp/polipropileno-homopolimero-pp-homo/hys6200/",
+  "confidence": "media"
+ },
+ {
+  "grade": "H5480S",
+  "aliases": [
+   "H548OS",
+   "H548"
+  ],
+  "brand": "EL-Lene (SCG Chemicals)",
+  "polymer": "HDPE",
+  "applications": [
+   "Rafia / monofilamento"
+  ],
+  "mi": 0.8,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.952,
+  "iv": null,
+  "name": "HDPE RAFIA MONOFILAMENTO SCGC H5480S",
+  "summary": "HDPE para monofilamento y cinta (malla raschel). MI 0.8 g/10 min (190 °C/2.16 kg): fluidez baja-media para hilado y estirado.",
+  "source_url": "https://www.scgchemicals.com/en/products-grade/h5480s",
+  "confidence": "alta"
+ },
+ {
+  "grade": "MF503",
+  "aliases": [],
+  "brand": "i-LUX (HD Hyundai Chemical)",
+  "polymer": "Otros",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "COMPUESTO MATE PELÍCULA I-LUX HYUNDAI MF503",
+  "summary": "Compuesto poliolefínico mate de alta opacidad para capa sellable de BOPP; no se pudo leer el MFR.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/126736/hyundai-ep-i-lux-mf503",
+  "confidence": "media"
+ },
+ {
+  "grade": "CZ-328",
+  "aliases": [],
+  "brand": "Jade (Jiangsu Jade / Indorama)",
+  "polymer": "PET",
+  "applications": [
+   "Inyección",
+   "Soplado"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": 0.85,
+  "name": "PET INYECCIÓN SOPLADO JADE CZ-328",
+  "summary": "PET grado botella para bebidas carbonatadas y envases grandes (el input lo clasifica como HDPE por error). IV 0.85 dL/g: viscosidad alta para resistencia y barrera.",
+  "source_url": "https://www.fengbaiplas.com/jade-cz-328/",
+  "confidence": "media"
+ },
+ {
+  "grade": "HI-2053",
+  "aliases": [],
+  "brand": "Certene (Muehlstein)",
+  "polymer": "HDPE",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 20,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.953,
+  "iv": null,
+  "name": "HDPE INYECCIÓN CERTENE HI-2053",
+  "summary": "HDPE copolímero de hexeno para inyección multicavidad de tapas, envases de alimentos y juguetes. MI 20 g/10 min (190 °C/2.16 kg): fluidez muy alta.",
+  "source_url": "https://www.b2bpolymers.com/TDS/Muehlstein_Certene_HI-2053.pdf",
+  "confidence": "alta"
+ },
+ {
+  "grade": "HD4810",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "HDPE",
+  "applications": [
+   "Extrusión"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "HDPE EXTRUSIÓN BRASKEM HD4810",
+  "summary": "HDPE de Braskem; no se encontró ficha ni MI (el BF4810 de Braskem existe pero sin valor visible).",
+  "source_url": "https://www.specialchem.com/plastics/product/braskem-bf4810",
+  "confidence": "baja"
+ },
+ {
+  "grade": "H605",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Extrusión",
+   "Termoformado / lámina"
+  ],
+  "mi": 2.1,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP HOMOPOLÍMERO EXTRUSIÓN BRASKEM H605",
+  "summary": "Homopolímero de PP de baja fluidez y alta transparencia para extrusión y termoformado. MFR 2.1 g/10 min (230 °C/2.16 kg): fluidez baja, buena resistencia de fusión.",
+  "source_url": "https://plastics.ulprospector.com/datasheet/e78167/braskem-pp-h-605",
+  "confidence": "media"
+ },
+ {
+  "grade": "KS359",
+  "aliases": [
+   "ELTEX P KS359"
+  ],
+  "brand": "Eltex P (INEOS)",
+  "polymer": "PP copolímero random",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 5,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP COPOLÍMERO RANDOM PELÍCULA ELTEX P KS359",
+  "summary": "Terpolímero de PP para capas sellantes de baja temperatura en film BOPP coextruido. MFR 5 g/10 min (230 °C/2.16 kg): fluidez media.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/74212/eltex-p-ks359",
+  "confidence": "media"
+ },
+ {
+  "grade": "LD4003",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 1.9,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.922,
+  "iv": null,
+  "name": "LDPE PELÍCULA BRASKEM LD4003",
+  "summary": "LDPE para película según tabla de propiedades de Braskem. MI 1.9 g/10 min (190 °C/2.16 kg): fluidez media.",
+  "source_url": "https://www.braskem.com/portal/Principal/arquivos/docs/en-US/Propriedades.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "LLD-0118AB",
+  "aliases": [],
+  "brand": "Snetor (distribuidor)",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "LLDPE PELÍCULA LLD-0118AB",
+  "summary": "LLDPE distribuido por Snetor; no se pudo verificar productor ni MI.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "DGDC-2502 NT",
+  "aliases": [
+   "DGDC-2502"
+  ],
+  "brand": "Dow Continuum",
+  "polymer": "HDPE",
+  "applications": [
+   "Tubería"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "HDPE TUBERÍA Dow Continuum DGDC-2502 NT",
+  "summary": "HDPE bimodal (UNIPOL II) para tubería de presión con alta resistencia a la propagación lenta de fisuras. No se leyó el MI ni la densidad del datasheet.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/285244/continuum-dgdc-2502-nt",
+  "confidence": "media"
+ },
+ {
+  "grade": "HMN 6060UV",
+  "aliases": [
+   "6060UV"
+  ],
+  "brand": "Chevron Phillips (Marlex)",
+  "polymer": "HDPE",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 6.5,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.962,
+  "iv": null,
+  "name": "HDPE INYECCIÓN Chevron Phillips HMN 6060UV",
+  "summary": "HDPE copolímero hexeno para moldeo por inyección con estabilización UV. MI 6.5 g/10 min (190 °C/2.16 kg): fluidez alta, para envases, tapas y artículos inyectados.",
+  "source_url": "https://www.cpchem.com/what-we-do/solutions/polyethylene/products/marlexr-hmn-6060uv-polyethylene",
+  "confidence": "alta"
+ },
+ {
+  "grade": "55B035",
+  "aliases": [],
+  "brand": "Shell Polymers",
+  "polymer": "HDPE",
+  "applications": [
+   "Soplado",
+   "Extrusión"
+  ],
+  "mi": 0.35,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.955,
+  "iv": null,
+  "name": "HDPE SOPLADO Shell Polymers 55B035",
+  "summary": "HDPE copolímero hexeno de alto peso molecular. MI 0.35 g/10 min (190 °C/2.16 kg): baja fluidez, alta resistencia del fundido; el datasheet lo indica para soplado por extrusión, la descripción aduanera lo usa para tubo.",
+  "source_url": "https://www.specialchem.com/plastics/product/shell-shell-polymers-hdpe-55b035",
+  "confidence": "media"
+ },
+ {
+  "grade": "LL118/21",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "LLDPE PELÍCULA Braskem LL118/21",
+  "summary": "LLDPE de Braskem; no se encontró el datasheet, uso presumido en película. MI y densidad no verificados.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "D139FK-P01",
+  "aliases": [],
+  "brand": "Chevron Phillips (Marlex)",
+  "polymer": "mLLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 1.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.918,
+  "iv": null,
+  "name": "mLLDPE PELÍCULA Chevron Phillips D139FK-P01",
+  "summary": "mLLDPE etileno-hexeno para película soplada de alta claridad, tenacidad y sellado. MI 1.0 g/10 min (190 °C/2.16 kg): fluidez media-baja típica de film.",
+  "source_url": "https://www.cpchem.com/what-we-do/solutions/polyethylene/products/marlexr-d139-p01-polyethylene",
+  "confidence": "alta"
+ },
+ {
+  "grade": "HM0550",
+  "aliases": [],
+  "brand": "Osterlene",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 10,
+  "mi_condition": "190 °C/21.6 kg (HLMI)",
+  "density": 0.949,
+  "iv": null,
+  "name": "HDPE PELÍCULA Osterlene HM0550",
+  "summary": "HDPE de alto peso molecular para película. HLMI 10 g/10 min (190 °C/21.6 kg), valor tomado de la descripción aduanera, no de datasheet.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "LLF-4218C",
+  "aliases": [],
+  "brand": "Icelene",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "LLDPE PELÍCULA Icelene LLF-4218C",
+  "summary": "LLDPE para película (bolsas, mangas, láminas) según la descripción; no se encontró datasheet, MI no verificado.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "CR-8816",
+  "aliases": [],
+  "brand": "CR (China Resources)",
+  "polymer": "PET",
+  "applications": [
+   "Soplado"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": 1.4,
+  "iv": 0.806,
+  "name": "PET SOPLADO CR CR-8816",
+  "summary": "PET grado botella (agua y bebidas) para preformas. IV ~0.806 ± 0.02 dL/g: viscosidad intrínseca media-alta para botellas de agua.",
+  "source_url": "https://www.fengbaiplas.com/pet-cr-8816/",
+  "confidence": "media"
+ },
+ {
+  "grade": "H7914",
+  "aliases": [],
+  "brand": "LG Chem (SEETEC)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Fibra / no tejido"
+  ],
+  "mi": 1400,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.9,
+  "iv": null,
+  "name": "PP homopolímero FIBRA / NO TEJIDO LG Chem H7914",
+  "summary": "PP homopolímero meltblown para no tejidos ultrafinos. MFR 1400 g/10 min (230 °C/2.16 kg): fluidez extremadamente alta para fibras finas (mascarillas, filtros).",
+  "source_url": "https://plastics.ulprospector.com/datasheet/e385861/seetec-pp-h7914",
+  "confidence": "media"
+ },
+ {
+  "grade": "7042N",
+  "aliases": [],
+  "brand": "CHN Energy / Sinopec (China)",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.918,
+  "iv": null,
+  "name": "LLDPE PELÍCULA CHN Energy / Sinopec 7042N",
+  "summary": "LLDPE de uso general para película soplada. MI 2.0 g/10 min (190 °C/2.16 kg): fluidez media. Productor exacto no confirmado.",
+  "source_url": "https://www.chemategroup.com/lldpe-7042n/",
+  "confidence": "baja"
+ },
+ {
+  "grade": "CPP FH08",
+  "aliases": [
+   "PPH-F08",
+   "F08"
+  ],
+  "brand": "Sinopec",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 8,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP homopolímero PELÍCULA Sinopec CPP FH08",
+  "summary": "PP homopolímero grado CPP (película cast). MFR ~8 g/10 min (230 °C/2.16 kg): fluidez media-alta para film cast.",
+  "source_url": "https://www.chemdo.com/uploads/TDS-PPH-F08F08MX-CPP.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "20H10NA",
+  "aliases": [],
+  "brand": "Esenttia",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 22,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": null,
+  "iv": null,
+  "name": "PP homopolímero INYECCIÓN Esenttia 20H10NA",
+  "summary": "PP homopolímero de reología controlada para inyección de pared delgada y tapas. MFR 22 g/10 min (230 °C/2.16 kg): fluidez alta.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/86879/esenttia-20h10na",
+  "confidence": "media"
+ },
+ {
+  "grade": "H5604F",
+  "aliases": [],
+  "brand": "SCG Chemicals",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.04,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.954,
+  "iv": null,
+  "name": "HDPE PELÍCULA SCG Chemicals H5604F",
+  "summary": "HDPE bimodal para película soplada de alta resistencia. MI 0.04 g/10 min (190 °C/2.16 kg): muy baja fluidez (HMW), film delgado y rígido.",
+  "source_url": "https://www.scgchemicals.com/en/products-grade/h5604f",
+  "confidence": "alta"
+ },
+ {
+  "grade": "C5608M",
+  "aliases": [],
+  "brand": "Sinopec (presunto)",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Rafia / monofilamento",
+   "Extrusión"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PP homopolímero RAFIA Sinopec C5608M",
+  "summary": "Descripción: homopolímero para rafia y extrusión; el código C5608 en Sinopec corresponde a un terpolímero CPP (MFR 8), por lo que la identificación es dudosa.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "F 6095",
+  "aliases": [],
+  "brand": "Easiplas",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "HDPE PELÍCULA Easiplas F 6095",
+  "summary": "HDPE Easiplas; sin datasheet, aplicación inferida por la letra F (film). Sin valores verificados.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "23050B",
+  "aliases": [],
+  "brand": "s/d",
+  "polymer": "HDPE",
+  "applications": [
+   "Tubería"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "HDPE TUBERÍA s/d 23050B",
+  "summary": "HDPE para fabricación de tuberías según la descripción; sin datasheet verificado.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "HP513M",
+  "aliases": [],
+  "brand": "s/d",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Película / film",
+   "Inyección",
+   "Extrusión"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PP homopolímero PELÍCULA s/d HP513M",
+  "summary": "PP homopolímero de uso general (película, inyección, extrusión) según descripción; sin datasheet verificado.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "P640J",
+  "aliases": [],
+  "brand": "s/d",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PP copolímero impacto INYECCIÓN s/d P640J",
+  "summary": "Copolímero de PP de alto impacto según descripción; sin datasheet verificado.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "J640N",
+  "aliases": [
+   "J640"
+  ],
+  "brand": "Hyosung (Topilene)",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 10,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.9,
+  "iv": null,
+  "name": "PP copolímero impacto INYECCIÓN Hyosung J640N",
+  "summary": "Copolímero en bloque PP para inyección (autopartes, electrodomésticos, menaje). MFR 10 g/10 min (230 °C/2.16 kg) del grado J640: fluidez media-alta.",
+  "source_url": "https://www.b2bpolymers.com/TDS/Hyosung_Topilene_J640.pdf",
+  "confidence": "media"
+ },
+ {
+  "grade": "PH0954",
+  "aliases": [
+   "PH0954-P1500"
+  ],
+  "brand": "Petroquim",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PP homopolímero INYECCIÓN Petroquim PH0954",
+  "summary": "PP homopolímero sanitizado (P1500) de Petroquim; sin datasheet verificado.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "LLB1918SB",
+  "aliases": [],
+  "brand": "Tricolene",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "LLDPE PELÍCULA Tricolene LLB1918SB",
+  "summary": "LLDPE buteno Tricolene; sin datasheet verificado.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "E 720",
+  "aliases": [],
+  "brand": "Rotolene",
+  "polymer": "Otros",
+  "applications": [
+   "Rotomoldeo"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "Otros ROTOMOLDEO Rotolene E 720",
+  "summary": "Polietileno negro para rotomoldeo de Rotolene; sin datasheet verificado.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "TI4015F",
+  "aliases": [
+   "TI4015F P14"
+  ],
+  "brand": "Braskem",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PP copolímero impacto INYECCIÓN Braskem TI4015F",
+  "summary": "Copolímero de PP Braskem; clase inferida por el prefijo TI, sin datasheet verificado.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "INNATE ST50",
+  "aliases": [
+   "ST50"
+  ],
+  "brand": "Dow (INNATE)",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.85,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.918,
+  "iv": null,
+  "name": "LLDPE PELÍCULA Dow INNATE ST50",
+  "summary": "Resina de precisión para envases flexibles (pouches, laminados). MI 0.85 g/10 min (190 °C/2.16 kg): fluidez media-baja con alta tenacidad.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/285139/innate-st50",
+  "confidence": "alta"
+ },
+ {
+  "grade": "LDPE 312E",
+  "aliases": [
+   "312E"
+  ],
+  "brand": "Dow",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.75,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.923,
+  "iv": null,
+  "name": "LDPE PELÍCULA Dow LDPE 312E",
+  "summary": "LDPE con deslizante y antibloqueo para película soplada. MI 0.75 g/10 min (190 °C/2.16 kg): fluidez baja, buena procesabilidad.",
+  "source_url": "https://www.dow.com/documents/400/400-001/400-00116541en-dow-ldpe-312e-tds.pdf",
+  "confidence": "alta"
+ },
+ {
+  "grade": "FP120-A",
+  "aliases": [],
+  "brand": "NOVA Chemicals (SCLAIR)",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 1.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.92,
+  "iv": null,
+  "name": "LLDPE PELÍCULA NOVA Chemicals FP120-A",
+  "summary": "LLDPE octeno de uso general para película soplada, coextrusión y laminación. MI 1.0 g/10 min (190 °C/2.16 kg).",
+  "source_url": "https://www.novachem.com/products/polyethylene/fp120-a/",
+  "confidence": "media"
+ },
+ {
+  "grade": "EXELENE 2500",
+  "aliases": [
+   "LLDPE EXELENE 2500"
+  ],
+  "brand": "Exelene",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "LLDPE PELÍCULA Exelene EXELENE 2500",
+  "summary": "LLDPE buteno para stretch film; sin datasheet verificado.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "DOWLEX 2645G",
+  "aliases": [
+   "2645G"
+  ],
+  "brand": "Dow",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.9,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.919,
+  "iv": null,
+  "name": "LLDPE PELÍCULA Dow DOWLEX 2645G",
+  "summary": "LLDPE octeno para películas industriales y de consumo. MI 0.90 g/10 min (190 °C/2.16 kg): fluidez media-baja con buena tenacidad.",
+  "source_url": "https://www.dow.com/en-us/pdp.dowlex-2645g-polyethylene-resin.104295z.html",
+  "confidence": "alta"
+ },
+ {
+  "grade": "TN7006",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 0.6,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.924,
+  "iv": null,
+  "name": "LDPE PELÍCULA Braskem TN7006",
+  "summary": "LDPE para película soplada, cast y laminación. MI 0.60 g/10 min (190 °C/2.16 kg): fluidez baja.",
+  "source_url": "https://omnexus.specialchem.com/product/t-braskem-tn7006",
+  "confidence": "media"
+ },
+ {
+  "grade": "MLLDPE-3518N",
+  "aliases": [],
+  "brand": "Snetor (distribuidor)",
+  "polymer": "mLLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "mLLDPE PELÍCULA Snetor MLLDPE-3518N",
+  "summary": "Copolímero etileno-alfa-olefina de metaloceno; sin datasheet verificado.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "HF0852B",
+  "aliases": [],
+  "brand": "Ciplas",
+  "polymer": "HDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "HDPE PELÍCULA Ciplas HF0852B",
+  "summary": "HDPE Ciplas; aplicación inferida por la letra F; sin datasheet verificado.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "HHM 5502BN",
+  "aliases": [
+   "HHM 5502"
+  ],
+  "brand": "Chevron Phillips (Marlex)",
+  "polymer": "HDPE",
+  "applications": [
+   "Soplado"
+  ],
+  "mi": 0.35,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.955,
+  "iv": null,
+  "name": "HDPE SOPLADO Chevron Phillips HHM 5502BN",
+  "summary": "HDPE copolímero hexeno de alto peso molecular para envases soplados. MI 0.35 g/10 min (190 °C/2.16 kg): baja fluidez, alta resistencia a fisuración.",
+  "source_url": "https://www.specialchem.com/plastics/product/chevron-phillips-chemical-marlex-hhm-5502bn-polyethylene",
+  "confidence": "media"
+ },
+ {
+  "grade": "LLBF-218A",
+  "aliases": [],
+  "brand": "Certene (Muehlstein)",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "LLDPE PELÍCULA Certene LLBF-218A",
+  "summary": "LLDPE buteno para stretch film cast o soplado y uso general; MI no leído del datasheet.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/73256/certene-llbf-218a",
+  "confidence": "media"
+ },
+ {
+  "grade": "MLL3527B",
+  "aliases": [],
+  "brand": "Ciplas",
+  "polymer": "mLLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "mLLDPE PELÍCULA Ciplas MLL3527B",
+  "summary": "LLDPE (presunto metaloceno) Ciplas; sin datasheet verificado.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "LL5405S",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 1.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.918,
+  "iv": null,
+  "name": "LLDPE PELÍCULA Braskem LL5405S",
+  "summary": "LLDPE para película soplada con antibloqueo y deslizante. MI 1.0 g/10 min (190 °C/2.16 kg): fluidez media-baja.",
+  "source_url": "https://www.ulprospector.com/plastics/es/datasheet/371759/braskem-pe-ll5405s",
+  "confidence": "media"
+ },
+ {
+  "grade": "SUPEER mLLDPE 7118LA",
+  "aliases": [
+   "7118LA"
+  ],
+  "brand": "SABIC",
+  "polymer": "mLLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 1.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.918,
+  "iv": null,
+  "name": "mLLDPE PELÍCULA SABIC SUPEER mLLDPE 7118LA",
+  "summary": "mLLDPE etileno-hexeno con deslizante y antibloqueo para film soplado de uso general y alto desempeño. MI 1.0 g/10 min (190 °C/2.16 kg).",
+  "source_url": "https://www.matweb.com/search/datasheet.aspx?matguid=9d0b3ed1f09b44008169c6723f4010bf",
+  "confidence": "media"
+ },
+ {
+  "grade": "PRB 0131",
+  "aliases": [],
+  "brand": "Braskem",
+  "polymer": "PP copolímero random",
+  "applications": [
+   "Soplado",
+   "Termoformado / lámina",
+   "Extrusión"
+  ],
+  "mi": 1.3,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.902,
+  "iv": null,
+  "name": "PP copolímero random SOPLADO Braskem PRB 0131",
+  "summary": "PP random con alta transparencia y buen impacto. MFR 1.3 g/10 min (230 °C/2.16 kg): fluidez baja para soplado y extrusión.",
+  "source_url": "https://www.specialchem.com/plastics/product/braskem-prb-0131",
+  "confidence": "media"
+ },
+ {
+  "grade": "DOWLEX 2247G",
+  "aliases": [
+   "2247G"
+  ],
+  "brand": "Dow",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2.3,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.917,
+  "iv": null,
+  "name": "LLDPE PELÍCULA Dow DOWLEX 2247G",
+  "summary": "LLDPE octeno para stretch film cast (pallet wrap). MI 2.3 g/10 min (190 °C/2.16 kg): fluidez media-alta para cast.",
+  "source_url": "https://www.dow.com/en-us/pdp.dowlex-2247g-polyethylene-resin.10240z.html",
+  "confidence": "alta"
+ },
+ {
+  "grade": "RJ870Z",
+  "aliases": [],
+  "brand": "Hanwha TotalEnergies",
+  "polymer": "PP copolímero random",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 40,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.9,
+  "iv": null,
+  "name": "PP copolímero random INYECCIÓN Hanwha TotalEnergies RJ870Z",
+  "summary": "PP random transparente para inyección de pared delgada. MFR 40 g/10 min (230 °C/2.16 kg): fluidez muy alta.",
+  "source_url": "https://datasheets.acran.com.tr/GetTDS.ashx?file=PPRC+-+HANWHA+TOTAL+-+RJ870Z+%5B2316%5D.pdf&id=2316&wm=true",
+  "confidence": "media"
+ },
+ {
+  "grade": "PP2252E1",
+  "aliases": [],
+  "brand": "ExxonMobil",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Rafia / monofilamento",
+   "Fibra / no tejido"
+  ],
+  "mi": 3.5,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.9,
+  "iv": null,
+  "name": "PP homopolímero RAFIA ExxonMobil PP2252E1",
+  "summary": "PP homopolímero para tejido de rafia, alfombras y fibras. MFR 3.5 g/10 min (230 °C/2.16 kg): fluidez media-baja.",
+  "source_url": "https://www.exxonmobilchemical.com/en/chemicals/webapi/dps/v1/datasheets/150000100990/0/en",
+  "confidence": "alta"
+ },
+ {
+  "grade": "LB1810E2",
+  "aliases": [
+   "LB1810ES2"
+  ],
+  "brand": "Icelene",
+  "polymer": "LLDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "LLDPE PELÍCULA Icelene LB1810E2",
+  "summary": "LLDPE Icelene; sin datasheet verificado.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "LDPE 641I",
+  "aliases": [
+   "641I"
+  ],
+  "brand": "Dow",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 2.0,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.922,
+  "iv": null,
+  "name": "LDPE PELÍCULA Dow LDPE 641I",
+  "summary": "LDPE de uso general para película delgada. MI 2.0 g/10 min (190 °C/2.16 kg): fluidez media, buen estirado.",
+  "source_url": "https://www.dow.com/en-us/pdp.dow-ldpe-641i.21974z.html",
+  "confidence": "alta"
+ },
+ {
+  "grade": "NA336-149",
+  "aliases": [],
+  "brand": "LyondellBasell (Petrothene)",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": 6.5,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.92,
+  "iv": null,
+  "name": "LDPE PELÍCULA LyondellBasell NA336-149",
+  "summary": "LDPE para película delgada con deslizante y antibloqueo. MI 6.5 g/10 min (190 °C/2.16 kg): fluidez alta, buen estirado.",
+  "source_url": "https://www.lyondellbasell.com/en/polymers/p/Petrothene-NA336149/2b7ee0ea-aa88-4389-bb18-5aad8ad655f5",
+  "confidence": "alta"
+ },
+ {
+  "grade": "M1400",
+  "aliases": [],
+  "brand": "LG Chem (SEETEC)",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 8.0,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.9,
+  "iv": null,
+  "name": "PP copolímero impacto INYECCIÓN LG Chem M1400",
+  "summary": "Copolímero heterofásico para inyección de uso general y juguetes. MFR 8 g/10 min (230 °C/2.16 kg): fluidez media-alta.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/137623/seetec-pp-m1400",
+  "confidence": "media"
+ },
+ {
+  "grade": "MF 503VL",
+  "aliases": [],
+  "brand": "HD Hyundai Chemical",
+  "polymer": "PP homopolímero",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "PP homopolímero PELÍCULA HD Hyundai Chemical MF 503VL",
+  "summary": "Compuesto mate de alta opacidad para película; sin datasheet verificado.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "HP4401",
+  "aliases": [],
+  "brand": "Formosa Plastics (Formolene)",
+  "polymer": "HDPE",
+  "applications": [
+   "Tubería"
+  ],
+  "mi": 0.11,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.944,
+  "iv": null,
+  "name": "HDPE TUBERÍA Formosa Plastics HP4401",
+  "summary": "HDPE copolímero hexeno para tubería de presión (PE80). MI 0.11 g/10 min (190 °C/2.16 kg): fluidez muy baja, alta resistencia del fundido.",
+  "source_url": "https://www.specialchem.com/plastics/product/formosa-plastics-formolene-hp4401-natural",
+  "confidence": "media"
+ },
+ {
+  "grade": "ME1000S2",
+  "aliases": [
+   "ME1000"
+  ],
+  "brand": "LG Chem (Lutene-H)",
+  "polymer": "HDPE",
+  "applications": [
+   "Inyección",
+   "Tapas / compresión"
+  ],
+  "mi": 0.9,
+  "mi_condition": "190 °C/2.16 kg",
+  "density": 0.952,
+  "iv": null,
+  "name": "HDPE INYECCIÓN LG Chem ME1000S2",
+  "summary": "HDPE de la serie ME1000 (valores del grado base ME1000) para tapas. MI 0.9 g/10 min (190 °C/2.16 kg); la variante S2 no se verificó.",
+  "source_url": "https://www.ulprospector.com/plastics/en/datasheet/385856/lutene-h-me1000",
+  "confidence": "baja"
+ },
+ {
+  "grade": "200F",
+  "aliases": [],
+  "brand": "Bapolene",
+  "polymer": "LDPE",
+  "applications": [
+   "Película / film"
+  ],
+  "mi": null,
+  "mi_condition": null,
+  "density": null,
+  "iv": null,
+  "name": "LDPE PELÍCULA Bapolene 200F",
+  "summary": "LDPE Bapolene; sin datasheet verificado.",
+  "source_url": "",
+  "confidence": "baja"
+ },
+ {
+  "grade": "M1850",
+  "aliases": [],
+  "brand": "LG Chem (SEETEC)",
+  "polymer": "PP copolímero impacto",
+  "applications": [
+   "Inyección"
+  ],
+  "mi": 70,
+  "mi_condition": "230 °C/2.16 kg",
+  "density": 0.9,
+  "iv": null,
+  "name": "PP copolímero impacto INYECCIÓN LG Chem M1850",
+  "summary": "Copolímero en bloque para inyección de pared delgada (envases de yogur). MFR 70 g/10 min (230 °C/2.16 kg): fluidez muy alta.",
+  "source_url": "https://www.b2bpolymers.com/TDS/LG_Seetec_M1850.pdf",
+  "confidence": "media"
+ }
+]

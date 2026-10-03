@@ -5,7 +5,7 @@ web/dist/
 __pycache__/
 .pytest_cache/
 .env
-data/
+/data/
 .runtime/
 *.log
 *.egg-info/

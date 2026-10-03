@@ -69,6 +69,8 @@ def load(session, artifacts, rows, baseline=_CURRENT):
             session.add(Revision(operation_id=existing.id,artifact_id=values['artifact_id'],record_hash=values['record_hash'],raw=values['raw']))
             alert_for(session,existing,prior_max);counts['inserted']+=1
     session.commit()
+    from radar.grades import apply as apply_grades
+    counts.update(apply_grades(session,only_missing=counts['updated']==0))
     return counts
 
 def create_run(kind, parameters, status='queued'):

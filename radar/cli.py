@@ -11,7 +11,13 @@ def main():
     query=subs.add_parser('query');query.add_argument('--kind',choices=['importer','hs'],required=True);query.add_argument('--value',required=True);query.add_argument('--start',required=True);query.add_argument('--end',required=True);query.add_argument('--force',action='store_true')
     resume=subs.add_parser('resume');resume.add_argument('id')
     subs.add_parser('reprocess',help='Reaplicar normalización a originales ya cargados')
+    subs.add_parser('grades',help='Recalcular marca, grado, aplicación y MI con el catálogo actual')
     args=vars(parser.parse_args());command=args.pop('command')
+    if command=='grades':
+        from radar.db import Session
+        from radar.grades import apply
+        with Session() as s: print(json.dumps(apply(s),ensure_ascii=False))
+        return
     if command=='bulk' and not 1<=args['weeks']<=52: parser.error('--weeks debe ser 1–52')
     run_id=args['id'] if command=='resume' else create_run(command,args,status='running')
     print('run_id='+run_id,flush=True)
